@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-11-03T07:35:05.667Z",
+  "projects": 236,
+  "projectBasis": "current public project records, normalized title/location/date; no authoritative completion-status feed",
+  "excludedDuplicateIds": [],
+  "patents": 8,
+  "designRegistrations": 107,
+  "ipBasis": "Manager verified public records, including ceased rights; not a count of currently valid holdings",
+  "ipSyncedAt": "2026-11-04T02:22:39.487Z"
+}

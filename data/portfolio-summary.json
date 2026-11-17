@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "status": "verified",
+  "basis": "manager-portfolio-total",
+  "sourceField": "total_material_count",
+  "total": 358,
+  "observedPublicCount": 228,
+  "checkedAt": "2026-11-11T02:56:34.841Z",
+  "generatedAt": "2026-11-11T02:56:34.439041+00:00"
+}

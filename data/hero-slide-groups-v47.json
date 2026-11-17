@@ -1,0 +1,107 @@
+{
+  "groups": {
+    "01": [
+      {
+        "image": "assets/site-images-v24/01/60e27352a72853a7-desktop.webp",
+        "mobile": "assets/site-images-v24/01/60e27352a72853a7-mobile.webp",
+        "source": "images/01 - HOME/WEB_IMAGE_01_A.png",
+        "width": 3636,
+        "height": 2434,
+        "sha256": "60e27352a72853a78cc9f65613986da734a44ac35fbd0bf65ddce9a018bc10ff"
+      },
+      {
+        "image": "assets/site-images-v24/01/4f727b16fd47dba5-desktop.webp",
+        "mobile": "assets/site-images-v24/01/4f727b16fd47dba5-mobile.webp",
+        "source": "images/01 - HOME/WEB_IMAGE_01_B.jpg",
+        "width": 5760,
+        "height": 3652,
+        "sha256": "4f727b16fd47dba5c971386259e36634c5711bef36863709289f2c5b042cf585"
+      },
+      {
+        "image": "assets/site-images-v24/01/ea5575d44741837f-desktop.webp",
+        "mobile": "assets/site-images-v24/01/ea5575d44741837f-mobile.webp",
+        "source": "images/01 - HOME/WEB_IMAGE_01_C.png",
+        "width": 3750,
+        "height": 2435,
+        "sha256": "ea5575d44741837f7587f759db35ba528aae6a4d519b7d001d7b5e59394b1e04"
+      }
+    ],
+    "02": [
+      {
+        "image": "assets/site-images-v24/02/1f99eb87c51e1a14-desktop.webp",
+        "mobile": "assets/site-images-v24/02/1f99eb87c51e1a14-mobile.webp",
+        "source": "images/02 - 회사소개/WEB_IMAGE_02_A.png",
+        "width": 5760,
+        "height": 3652,
+        "sha256": "1f99eb87c51e1a142bb3a6b1cf3db51b8a5df6805770e56c2214dec424ebddfc"
+      },
+      {
+        "image": "assets/site-images-v24/02/a3c218d9ca4b3e86-desktop.webp",
+        "mobile": "assets/site-images-v24/02/a3c218d9ca4b3e86-mobile.webp",
+        "source": "images/02 - 회사소개/WEB_IMAGE_02_B.png",
+        "width": 3840,
+        "height": 2435,
+        "sha256": "a3c218d9ca4b3e86e30619dcf186444608d04e0b6f75c8636c52814fafa37ff0"
+      },
+      {
+        "image": "assets/site-images-v24/02/e8f0ce572c83b504-desktop.webp",
+        "mobile": "assets/site-images-v24/02/e8f0ce572c83b504-mobile.webp",
+        "source": "images/02 - 회사소개/WEB_IMAGE_02_C.png",
+        "width": 5760,
+        "height": 3652,
+        "sha256": "e8f0ce572c83b504b4dc8f8a7dc9a66a8bfea9ab447f5deb01a33ced4fb1fde5"
+      }
+    ],
+    "03": [
+      {
+        "image": "assets/site-images-v24/03/e29c3e4174e97886-desktop.webp",
+        "mobile": "assets/site-images-v24/03/e29c3e4174e97886-mobile.webp",
+        "source": "images/03 -공공디자인/WEB-03-A.png",
+        "width": 3840,
+        "height": 2439,
+        "sha256": "e29c3e4174e978864ba746cc8f202c4becf14031cce5e3aaa48a19b26d97901b"
+      },
+      {
+        "image": "assets/site-images-v24/03/26fb21c8597e6f33-desktop.webp",
+        "mobile": "assets/site-images-v24/03/26fb21c8597e6f33-mobile.webp",
+        "source": "images/03 -공공디자인/WEB-03-C.png",
+        "width": 3840,
+        "height": 2436,
+        "sha256": "26fb21c8597e6f3394fc1c22a5499b03bacd6a6dc7e3b76061b7bfe63376c02c"
+      }
+    ],
+    "04": [
+      {
+        "image": "assets/site-images-v24/04/c720dfc43fbc3033-desktop.webp",
+        "mobile": "assets/site-images-v24/04/c720dfc43fbc3033-mobile.webp",
+        "source": "images/04 - 스케이프어닝/WEB-04-A.jfif",
+        "width": 2730,
+        "height": 1536,
+        "sha256": "c720dfc43fbc303318ac4c57a380df8bc8a8d3a0ef9fecdc4f8c5dc807d642a1"
+      },
+      {
+        "image": "assets/site-images-v24/04/0b2cd0c9a9ca7199-desktop.webp",
+        "mobile": "assets/site-images-v24/04/0b2cd0c9a9ca7199-mobile.webp",
+        "source": "images/04 - 스케이프어닝/WEB-04-B.png",
+        "width": 6596,
+        "height": 3816,
+        "sha256": "0b2cd0c9a9ca719973bfbba2e96c35eeaa8a9cbf115774f67d7f9ff012a50e86"
+      },
+      {
+        "image": "assets/site-images-v24/04/9a1b97d0c677602d-desktop.webp",
+        "mobile": "assets/site-images-v24/04/9a1b97d0c677602d-mobile.webp",
+        "source": "images/04 - 스케이프어닝/WEB-04-C.png",
+        "width": 6688,
+        "height": 3764,
+        "sha256": "9a1b97d0c677602d5eeadea4e6d8f18893eaa761ef9361d021771efffe5961f7"
+      }
+    ]
+  },
+  "assignment": {
+    "home": "01",
+    "about": "02",
+    "approach": "03",
+    "awning": "04"
+  },
+  "selection": "shuffle, crossfade, no cycle during scene transitions"
+}

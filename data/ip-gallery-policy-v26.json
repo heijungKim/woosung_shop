@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-11-04",
+  "purpose": "Background-filled design gallery images only. Public IP counts are unchanged.",
+  "approvedDesignIds": [
+    "e1a3eb9a-b610-455b-94b7-eb4a2e1b1d4c",
+    "b2043835-b2f3-4f70-ae37-dd407a506e6f",
+    "1aee2ad3-b3f9-431e-8c89-3921c32c3e4f",
+    "eae9566f-dde5-414e-83a3-92ec834e6a7f",
+    "e1c10f4e-b757-478c-a7d4-d561ff8c14ae",
+    "a4c61e17-183a-4c0c-a5db-1d5ae676bc13",
+    "5402b6d0-6100-44c2-9a62-318aaefc66bf",
+    "8864929d-6917-48c6-8fc0-0aa98ed4660e",
+    "ae7716b2-0c59-44e8-9b3e-a775feea2824",
+    "be6964a8-31ed-4b3f-b737-06522bb19ab9",
+    "b27e5a03-909c-4370-8e15-3adad4d5d3ef",
+    "5fef92a3-414d-479f-b442-d4b16fe2d695",
+    "3d48f7b0-1b2e-4921-bb39-1bbdfc98e40d",
+    "0a5d9b2a-54f0-4c86-9f59-787bcd41f760",
+    "a0c6d3a5-bb09-4fe1-83ac-f9dbaceb3f06",
+    "9142b19d-8624-4d25-a5a9-28b8e1d33762",
+    "4c00c009-6def-463f-a7bb-a119cf087b66",
+    "8e4a173e-2c19-44a2-aa60-0f4b76e12a31",
+    "422d779f-0f82-42ce-aa5c-9ba0519c3caa",
+    "e044f80b-b3b8-4718-ab98-c1da68bbb7db",
+    "e4935ca6-9acb-4a14-a458-9f869a8226c4",
+    "91592ba5-14de-43c7-92e5-71a7c918d150",
+    "3298f62b-2df5-440a-b5ad-72b2eab7202e",
+    "c3bac9cd-f3ea-4d47-8d42-af2ace0e0bfe",
+    "2a38ca8b-dfd9-44e2-a1a9-4459a906e96c",
+    "f6c16c6f-56ed-47a0-84db-4c234adcdc82",
+    "d7fb9001-291b-47d4-8078-769b8a6b2006",
+    "9a930e30-495e-4864-9fb4-dee9b6d4c9e9",
+    "924a2e68-235e-40ba-bda6-e20655c1e25e",
+    "e1a81025-8267-46a2-821b-31a5b12b0adc",
+    "a81e2fb3-6915-4cdc-9fa6-79302000c061",
+    "b9b7cb02-992a-4493-aabb-992b50121cad",
+    "e1d3cc25-0e2e-4936-939f-36a994e6b65f"
+  ],
+  "excluded": [
+    {
+      "id": "2867d590-7190-43ed-ba1c-5e7173ea3667",
+      "registrationNumber": "3012374970000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "898fe5b8-ec80-4391-9398-fb8642eed146",
+      "registrationNumber": "3012217870000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "ab8293b6-bc74-4426-b2f2-ef9d40fb0a32",
+      "registrationNumber": "3011916810000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "fd8a44b0-db8f-4e28-8af7-5815ed7fde56",
+      "registrationNumber": "3011970660000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "d79d6bb8-7eed-4355-87d5-e2b3c8819224",
+      "registrationNumber": "3011851660000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "696d160b-ad14-4070-9e1c-4ec9b0504260",
+      "registrationNumber": "3011542300000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "b8aae5e4-453b-4c34-8b46-6d778dff150e",
+      "registrationNumber": "3011641430000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "ab9c00a4-442e-4157-b72d-17c59af6b07e",
+      "registrationNumber": "3011344050000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "f404b27d-932d-446d-8d7c-5e3371ca9b45",
+      "registrationNumber": "3011344040000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "833d6618-f94b-46cb-a7de-953e75c1ad99",
+      "registrationNumber": "3011148480000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "b0888876-0a86-4ff3-a277-687449674075",
+      "registrationNumber": "3010821730000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    },
+    {
+      "id": "8177b2de-93ef-41b2-86ee-a510b97c7989",
+      "registrationNumber": "3010821740000",
+      "reason": "isolated cutout, near-empty background, or wide strip with large empty area"
+    }
+  ],
+  "newImages": "New unreviewed IDs do not enter the decorative gallery automatically"
+}

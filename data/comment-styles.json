@@ -1,0 +1,409 @@
+{
+  "schemaVersion": 1,
+  "revision": "draft-v31",
+  "updatedAt": null,
+  "scenes": [
+    {
+      "id": "home",
+      "label": "01 · 첫 화면",
+      "background": "assets/site-images-v24/01/60e27352a72853a7-desktop.webp",
+      "blocks": [
+        {
+          "id": "hero-1",
+          "label": "슬로건 1",
+          "text": "우리의 도시를,\n우리의 공간을,\n하나된 가치로 채워나갑니다.",
+          "selector": "#hero-title",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 600,
+            "desktopSize": 58,
+            "mobileSize": 30,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "type",
+            "duration": 650,
+            "delay": 100,
+            "interval": 70,
+            "parts": 4
+          },
+          "desktopText": "우리의 도시를, 우리의 공간을,\n하나된 가치로 채워나갑니다."
+        },
+        {
+          "id": "hero-2",
+          "label": "슬로건 2",
+          "text": "기획에서 디자인으로,\n설계에서 시공으로.\n공간의 가능성을 완성합니다.",
+          "selector": "#hero-title",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 600,
+            "desktopSize": 58,
+            "mobileSize": 30,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "type",
+            "duration": 650,
+            "delay": 100,
+            "interval": 70,
+            "parts": 4
+          },
+          "desktopText": "기획에서 디자인으로, 설계에서 시공으로.\n공간의 가능성을 완성합니다."
+        },
+        {
+          "id": "hero-3",
+          "label": "슬로건 3",
+          "text": "공간을 생각하고,\n직접 만들고,\n끝까지 완성합니다.",
+          "selector": "#hero-title",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 600,
+            "desktopSize": 58,
+            "mobileSize": 30,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "type",
+            "duration": 650,
+            "delay": 100,
+            "interval": 70,
+            "parts": 4
+          },
+          "desktopText": "공간을 생각하고, 직접 만들고,\n끝까지 완성합니다."
+        },
+        {
+          "id": "hero-description",
+          "label": "하단 소개",
+          "text": "도시의 공간을, 디자인에서 제작·시공까지 하나로 이어갑니다.",
+          "selector": ".hero-description",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 18,
+            "mobileSize": 16,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 170,
+            "interval": 70,
+            "parts": 4
+          }
+        }
+      ],
+      "cycle": {
+        "hold": 5000,
+        "exit": 1600
+      }
+    },
+    {
+      "id": "about",
+      "label": "02 · 우리가 만드는 공간",
+      "background": "assets/site-images-v24/02/1f99eb87c51e1a14-desktop.webp",
+      "blocks": [
+        {
+          "id": "about-label",
+          "label": "섹션 이름",
+          "text": "우리가 만드는 공간",
+          "selector": "#about .section-label",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 22,
+            "mobileSize": 18,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 0,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "about-first",
+          "label": "도시의 하루",
+          "text": "거리를 걷고, 광장에 머물고,\n난간에 기대어 잠시 쉬어 가는 일.\n도시의 하루는 그런 작은 순간들로 채워집니다.",
+          "selector": "#about .approved-copy p:nth-child(1)",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 30,
+            "mobileSize": 20,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 270,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "about-place",
+          "label": "우리가 하는 일",
+          "text": "우리는 그 순간이 놓이는 자리를 만듭니다.",
+          "selector": "#about .approved-copy p:nth-child(2)",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 30,
+            "mobileSize": 22,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 540,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "about-promise",
+          "label": "완성의 약속",
+          "text": "상상이 현실이 되도록, 여러분과 함께 고민하고 끝까지 완성하겠습니다.",
+          "selector": "#about .approved-copy p:nth-child(3)",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 30,
+            "mobileSize": 22,
+            "lineHeight": 1.65,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 810,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "about-value",
+          "label": "핵심 가치",
+          "text": "그려낸 상상과 실제 공간이\n하나가 되는 것,\n우리가 채우고 싶은 가치입니다.",
+          "selector": "#about .approved-copy p:nth-child(4)",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 650,
+            "desktopSize": 34,
+            "mobileSize": 22,
+            "lineHeight": 1.65,
+            "underline": true
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "multi-type",
+            "duration": 650,
+            "delay": 1550,
+            "interval": 70,
+            "parts": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "approach",
+      "label": "03 · 공공디자인",
+      "background": "assets/site-images-v24/03/e29c3e4174e97886-desktop.webp",
+      "blocks": [
+        {
+          "id": "approach-label",
+          "label": "섹션 이름",
+          "text": "공공디자인",
+          "selector": "#approach .section-label",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 20,
+            "mobileSize": 18,
+            "lineHeight": 1.5,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 0,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "approach-title",
+          "label": "대표 문구",
+          "text": "우리가 그린 상상이,\n우리 곁의 공간이 됩니다.",
+          "selector": "#approach .approach-front>h2",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 500,
+            "desktopSize": 50,
+            "mobileSize": 26,
+            "lineHeight": 1.4,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 100,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "way-title-0",
+          "label": "과정 1 제목",
+          "text": "장소를 읽고",
+          "selector": "#approach .ways article:nth-child(1) h3",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 500,
+            "desktopSize": 26,
+            "mobileSize": 21,
+            "lineHeight": 1.4,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 650,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "way-title-1",
+          "label": "과정 2 제목",
+          "text": "모습을 구상하고",
+          "selector": "#approach .ways article:nth-child(2) h3",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 500,
+            "desktopSize": 26,
+            "mobileSize": 21,
+            "lineHeight": 1.4,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 650,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "way-title-2",
+          "label": "과정 3 제목",
+          "text": "공간에 옮겨 씁니다",
+          "selector": "#approach .ways article:nth-child(3) h3",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 500,
+            "desktopSize": 26,
+            "mobileSize": 21,
+            "lineHeight": 1.4,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 650,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "way-body-0",
+          "label": "과정 1 설명",
+          "text": "그 자리의 문화와 경관, 그곳을 오가는 사람들의 바람을 살핍니다. 각 지역의 공공디자인 가이드라인을 바탕으로, 이 장소에 어울리는 모습을 함께 찾습니다.",
+          "selector": "#approach .ways article:nth-child(1) p",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 19,
+            "mobileSize": 16,
+            "lineHeight": 1.5,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 1100,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "way-body-1",
+          "label": "과정 2 설명",
+          "text": "디자인과 설계를 오가며 예산과 현장 여건, 유지관리까지 함께 따져 봅니다. 디자인의 의도가 구현 가능한 설계로 이어지도록 조율합니다.",
+          "selector": "#approach .ways article:nth-child(2) p",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 19,
+            "mobileSize": 16,
+            "lineHeight": 1.5,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 1480,
+            "interval": 70,
+            "parts": 4
+          }
+        },
+        {
+          "id": "way-body-2",
+          "label": "과정 3 설명",
+          "text": "도면과 디자인대로 제작되었는지 검수하고, 마감과 용접, 도장, 소재 등 제작 공정의 수준을 지킵니다. 장소에 맞춘 맞춤 제작과 기성 제품 공급이 모두 가능합니다.",
+          "selector": "#approach .ways article:nth-child(3) p",
+          "style": {
+            "color": "#eff1f6",
+            "weight": 400,
+            "desktopSize": 19,
+            "mobileSize": 16,
+            "lineHeight": 1.5,
+            "underline": false
+          },
+          "highlights": [],
+          "animation": {
+            "mode": "rise",
+            "duration": 650,
+            "delay": 1860,
+            "interval": 70,
+            "parts": 4
+          }
+        }
+      ]
+    }
+  ]
+}

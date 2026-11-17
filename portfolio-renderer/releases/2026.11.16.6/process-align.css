@@ -1,0 +1,2 @@
+.sunae-detail-view:not(.is-compact) .process-panel-caption{justify-items:start;text-align:left}
+.sunae-detail-view:not(.is-compact) .process-panel-caption small,.sunae-detail-view:not(.is-compact) .process-panel-caption strong{width:100%;text-align:left;justify-self:start}

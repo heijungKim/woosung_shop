@@ -1,0 +1,2942 @@
+{
+  "version": 1,
+  "source": "manager-mas-api",
+  "syncedAt": "2026-11-11T02:56:33.680Z",
+  "count": 179,
+  "items": [
+    {
+      "id": "4c995e20-e4a9-48f3-92c4-d66b52c3509c",
+      "code": "OSBE-3017",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,100mm x W 500mm x H 1,050mm",
+      "itemNumber": "25265795",
+      "price": "4400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000010",
+      "thumbnail": "assets/mas/by-sha256/d0bf6cbe6a0e62be12374c45.webp"
+    },
+    {
+      "id": "2830bcc8-f828-430d-a49f-b5216b495fe6",
+      "code": "OSBE-3019",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 860mm x W 860mm x H 860mm",
+      "itemNumber": "25265796",
+      "price": "2850000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000011",
+      "thumbnail": "assets/mas/by-sha256/9823685aa880b2f5b9b7e46d.webp"
+    },
+    {
+      "id": "8c6dfc7c-da12-4c97-bb37-c3f9bcea672e",
+      "code": "OSBE-3023",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,800mm x W 450mm x H 850mm",
+      "itemNumber": "25265800",
+      "price": "3720000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000015",
+      "thumbnail": "assets/mas/by-sha256/fc457bbafa867d6daa7363fc.webp"
+    },
+    {
+      "id": "1f3dee24-1d46-457e-b428-ca67f51c3479",
+      "code": "OSBE-3024",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,800mm x W 450mm x H 680mm",
+      "itemNumber": "25265802",
+      "price": "4400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000016",
+      "thumbnail": "assets/mas/by-sha256/22c57b1ffa79894a2fe23ef3.webp"
+    },
+    {
+      "id": "4c2c19e4-f2be-4542-815d-9858bab5227e",
+      "code": "OSBE-3025",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,800mm x W 450mm x H 1,300mm",
+      "itemNumber": "25265804",
+      "price": "4400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000017",
+      "thumbnail": "assets/mas/by-sha256/aeb4c8cfe80e1e6f54aecb8a.webp"
+    },
+    {
+      "id": "83f335f4-1025-439b-a11f-feb978daa5dd",
+      "code": "OSBE-6003",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 3,000mm x W 250mm x H 1,760mm",
+      "itemNumber": "25267543",
+      "price": "7400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000001",
+      "thumbnail": "assets/mas/by-sha256/a19d2da9d4c1b08bf59b437f.webp"
+    },
+    {
+      "id": "c8f72609-20a9-4730-b500-9644b3de1f6d",
+      "code": "OSBE-6004",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,500mm x W 300mm x H 2,100mm",
+      "itemNumber": "25267544",
+      "price": "6000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000002",
+      "thumbnail": "assets/mas/by-sha256/eb5b5619e79e540b22ddb629.webp"
+    },
+    {
+      "id": "06eacb4c-318d-4949-97cc-3cede9051c4d",
+      "code": "OSBE-6005",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 3,000mm x W 300mm x H 2,000mm",
+      "itemNumber": "25267545",
+      "price": "7450000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000003",
+      "thumbnail": "assets/mas/by-sha256/14f5c41444e5fdf61507b8fb.webp"
+    },
+    {
+      "id": "6347e1d0-3dbc-4a06-87b3-d668185cc65b",
+      "code": "OSBE-6006",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,000mm x W 400mm x H 1,800mm",
+      "itemNumber": "25267546",
+      "price": "7400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000004",
+      "thumbnail": "assets/mas/by-sha256/89293cad93c7f9334321b2b6.webp"
+    },
+    {
+      "id": "0465c838-8915-4064-bfd9-3f982d7b422c",
+      "code": "OSBE-6007",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 300mm x H 2,200mm",
+      "itemNumber": "25267547",
+      "price": "7450000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000005",
+      "thumbnail": "assets/mas/by-sha256/bbd36bec1d3ee171e7a9a27c.webp"
+    },
+    {
+      "id": "0c3fe01c-e046-4438-91b1-1c9ec2b28e27",
+      "code": "OSBE-6009",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,000mm x W 420mm x H 1,650mm",
+      "itemNumber": "25267548",
+      "price": "6600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000006",
+      "thumbnail": "assets/mas/by-sha256/317668b87dac09493c2da6be.webp"
+    },
+    {
+      "id": "1d047aef-8160-4a8a-9786-71a6a12465ce",
+      "code": "OSBE-6010",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,700mm x W 300mm x H 1,800mm",
+      "itemNumber": "25267549",
+      "price": "6600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000007",
+      "thumbnail": "assets/mas/by-sha256/bdfd8368fed1efafdf67f85e.webp"
+    },
+    {
+      "id": "7755fd5c-0f7d-4a50-a8bd-d493c2925b54",
+      "code": "OSBE-6014",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 400mm x H 2,350mm",
+      "itemNumber": "25447300",
+      "price": "6660000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000012",
+      "thumbnail": "assets/mas/by-sha256/726eef2a06b196d36077c587.webp"
+    },
+    {
+      "id": "e52d700a-dbdd-4cd8-be15-5d5e0c3b8718",
+      "code": "OSBE-6015",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 480mm x H 2,350mm",
+      "itemNumber": "25447302",
+      "price": "8000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000013",
+      "thumbnail": "assets/mas/by-sha256/5345e1f8ef7b6eb252456919.webp"
+    },
+    {
+      "id": "539c8ea9-6364-4595-91cc-daeee8c07865",
+      "code": "OSBE-6016",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 400mm x H 2,350mm",
+      "itemNumber": "25447303",
+      "price": "8890000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000014",
+      "thumbnail": "assets/mas/by-sha256/bc980eba8efe003c2113ca76.webp"
+    },
+    {
+      "id": "e1ee1b93-5371-400b-a5b1-f7ee17d66d98",
+      "code": "OSBE-6023",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,250mm",
+      "itemNumber": "25619242",
+      "price": "6828000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000019",
+      "thumbnail": "assets/mas/by-sha256/b4828291abcfee1f212a6d10.webp"
+    },
+    {
+      "id": "267bf877-dbd9-4f5b-9b09-526309dba0b7",
+      "code": "OSBE-6024",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619243",
+      "price": "6828000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000020",
+      "thumbnail": "assets/mas/by-sha256/2f2ec0ebad5774044bd57b3b.webp"
+    },
+    {
+      "id": "0e6f74e4-62be-452b-969c-46be26e55db6",
+      "code": "OSBE-6025",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,250mm",
+      "itemNumber": "25619244",
+      "price": "6828000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000021",
+      "thumbnail": "assets/mas/by-sha256/2003369dd2b5b5c8272108aa.webp"
+    },
+    {
+      "id": "264aa926-3e46-4b79-926d-ad2cd9fb3c3d",
+      "code": "OSBE-6026",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,100mm x W 500mm x H 1,800mm",
+      "itemNumber": "25619245",
+      "price": "6828000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000022",
+      "thumbnail": "assets/mas/by-sha256/75a3e2af01ea6357eaaec2f5.webp"
+    },
+    {
+      "id": "f10f6681-98b5-4674-9f52-012cef4c8152",
+      "code": "OSBE-6029",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619248",
+      "price": "9389000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000025",
+      "thumbnail": "assets/mas/by-sha256/26d447271903426b9738f5c6.webp"
+    },
+    {
+      "id": "f9606726-053c-4e89-889c-fda259e2e5cb",
+      "code": "OSBE-6030",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619249",
+      "price": "9389000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000026",
+      "thumbnail": "assets/mas/by-sha256/464aa0a95c697852e88bb81d.webp"
+    },
+    {
+      "id": "2d76baf9-7123-4f67-aa52-ba2783e2e007",
+      "code": "OSBE-6034",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619253",
+      "price": "8429000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000030",
+      "thumbnail": "assets/mas/by-sha256/1faa72d805c409b75a0ae169.webp"
+    },
+    {
+      "id": "f54690c6-1139-4b55-8029-4593a44c54e7",
+      "code": "OSBE-6035",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619254",
+      "price": "8429000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000031",
+      "thumbnail": "assets/mas/by-sha256/eb597efbfdd762d2b5453b2c.webp"
+    },
+    {
+      "id": "f8735b27-c6d2-46b7-b9df-3fee24aaa723",
+      "code": "OSBE-6036",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619255",
+      "price": "8429000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000032",
+      "thumbnail": "assets/mas/by-sha256/485466968a51baddf05729c4.webp"
+    },
+    {
+      "id": "d5df7b30-57ab-46de-a36b-453b46c266b9",
+      "code": "OSBE-6037",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,400mm x W 500mm x H 2,400mm",
+      "itemNumber": "25619256",
+      "price": "7575000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000033",
+      "thumbnail": "assets/mas/by-sha256/743861093877dc66a4417e46.webp"
+    },
+    {
+      "id": "391d39cb-574c-4814-957b-484b50ee6ed7",
+      "code": "OSBE-6039",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,000mm x W 500mm x H 1,400mm",
+      "itemNumber": "25619258",
+      "price": "6828000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000035",
+      "thumbnail": "assets/mas/by-sha256/2006aaf4ad867c35635ca2b3.webp"
+    },
+    {
+      "id": "1b919f1e-90df-49ce-9efc-e79ca17e851d",
+      "code": "OSBE-6040",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,100mm x W 500mm x H 1,800mm",
+      "itemNumber": "25619259",
+      "price": "6828000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000036",
+      "thumbnail": "assets/mas/by-sha256/cfac7d04826e4e5605053f77.webp"
+    },
+    {
+      "id": "99b58cee-8654-43b8-9be4-8b6806b95d4d",
+      "code": "OSBE-6042",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,400mm x W 1,200mm x H 1,200mm",
+      "itemNumber": "25869325",
+      "price": "6200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000037",
+      "thumbnail": "assets/mas/by-sha256/a7d8732013d7c9779a561d35.webp"
+    },
+    {
+      "id": "01bcb764-98d4-4890-877e-525f66513c8f",
+      "code": "OSBE-6043",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,400mm x W 900mm x H 1,300mm",
+      "itemNumber": "25869326",
+      "price": "6200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000038",
+      "thumbnail": "assets/mas/by-sha256/372b183ea0ed34817f2aa9da.webp"
+    },
+    {
+      "id": "66b3e9e4-566c-459c-bba1-e680a9a4bc73",
+      "code": "OSBE-6044",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 1,400mm x W 770mm x H 1,250mm",
+      "itemNumber": "25869327",
+      "price": "6200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000039",
+      "thumbnail": "assets/mas/by-sha256/4225123daf8cf1d47d4f2d1f.webp"
+    },
+    {
+      "id": "a809429b-c07a-4f41-ae6c-b82ff8422485",
+      "code": "OSBE-6045",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,350mm x W 450mm x H 1,250mm",
+      "itemNumber": "25869328",
+      "price": "8100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000040",
+      "thumbnail": "assets/mas/by-sha256/7a9a96648f3ef0e9115af4ca.webp"
+    },
+    {
+      "id": "50ff618d-44bb-4080-a56a-50d8938b71fe",
+      "code": "OSBE-6046",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,250mm x W 2,000mm x H 450mm",
+      "itemNumber": "25874481",
+      "price": "9100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000041",
+      "thumbnail": "assets/mas/by-sha256/eff41a1e1f4d0c12a24468d5.webp"
+    },
+    {
+      "id": "4fbf3e5f-09e7-43d5-97cd-c4cdb75cf13f",
+      "code": "OSBE-6047",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 3,300mm x W 600mm x H 3,400mm",
+      "itemNumber": "25869329",
+      "price": "13600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000042",
+      "thumbnail": "assets/mas/by-sha256/bcd15aa7e1f50c340a3e18c9.webp"
+    },
+    {
+      "id": "8d92c5fd-1fd7-424e-96af-1f1239bfa164",
+      "code": "OSBE-6049",
+      "category": {
+        "code": "OSBE",
+        "name": "벤치"
+      },
+      "specification": "L 2,300mm x W 800mm x H 2,650mm",
+      "itemNumber": "25869331",
+      "price": "10600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024D0392_1050000044",
+      "thumbnail": "assets/mas/by-sha256/6d11f6edf34442aecb2fb762.webp"
+    },
+    {
+      "id": "dcb0f269-897d-4ca1-95d2-f7a77220b3b5",
+      "code": "OSFE-1315",
+      "category": {
+        "code": "OSFE",
+        "name": "디자인울타리"
+      },
+      "specification": "W 2,000mm x H 1,100mm",
+      "itemNumber": "25002278",
+      "price": "253000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=222430572_1000000001",
+      "thumbnail": "assets/mas/by-sha256/b435cd3dd488302e1a3dabc8.webp"
+    },
+    {
+      "id": "65d985fc-3a13-4b3a-886d-4610cb3dfbf7",
+      "code": "OSFE-1315-H6",
+      "category": {
+        "code": "OSFE",
+        "name": "디자인울타리"
+      },
+      "specification": "W 2,000mm x H 600mm",
+      "itemNumber": "25010595",
+      "price": "212000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=222430572_1000000003",
+      "thumbnail": "assets/mas/by-sha256/3ce5fb452e486ba61bd78dd5.webp"
+    },
+    {
+      "id": "da910c3a-3544-45be-bd6d-ee9574ac66da",
+      "code": "OSFE-1315A",
+      "category": {
+        "code": "OSFE",
+        "name": "디자인울타리"
+      },
+      "specification": "W 2,000mm x H 1,100mm",
+      "itemNumber": "25002279",
+      "price": "298000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=222430572_1000000002",
+      "thumbnail": "assets/mas/by-sha256/2a4552f19b5add857e1f2bf9.webp"
+    },
+    {
+      "id": "dafdda14-a55b-4c0c-bfb6-1a16d77afeef",
+      "code": "OSFE-2311",
+      "category": {
+        "code": "OSFE",
+        "name": "디자인울타리"
+      },
+      "specification": "W 2,000mm x H 1,200mm",
+      "itemNumber": "25020252",
+      "price": "208000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=222430572_1000000004",
+      "thumbnail": "assets/mas/by-sha256/ab5f05682d0c520fcf7cb6ae.webp"
+    },
+    {
+      "id": "ba64b466-f4d9-47f8-8ac9-b478fca040be",
+      "code": "OSFE-2312",
+      "category": {
+        "code": "OSFE",
+        "name": "디자인울타리"
+      },
+      "specification": "W 2,000mm x H 1,200mm",
+      "itemNumber": "25020251",
+      "price": "217000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=222430572_1000000005",
+      "thumbnail": "assets/mas/by-sha256/9a1f9299d341fa887632c1fd.webp"
+    },
+    {
+      "id": "b65917c0-464b-4e35-905a-b53cddb347dc",
+      "code": "OSHR-1303",
+      "category": {
+        "code": "OSHR",
+        "name": "교량난간"
+      },
+      "specification": "W 2,000mm x H 1,100mm",
+      "itemNumber": "24245747",
+      "price": "260000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=002150775_1030000002",
+      "thumbnail": "assets/mas/by-sha256/29d7eaa04c4f1ec2c62ec85b.webp"
+    },
+    {
+      "id": "256fa906-837c-4c05-983b-e7ef2d0c7de1",
+      "code": "OSHR-4314-R12",
+      "category": {
+        "code": "OSHR",
+        "name": "교량난간"
+      },
+      "specification": "W 1,500mm x H 1,200mm",
+      "itemNumber": "24245756",
+      "price": "349000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=002150775_1030000012",
+      "thumbnail": "assets/mas/by-sha256/3b0a55ae8cdf3cc08833077f.webp"
+    },
+    {
+      "id": "0920a15c-6f92-4415-ab1a-f3f23b488880",
+      "code": "OSSB-1101-H0.3",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 300mm x H 300mm x D 80mm",
+      "itemNumber": "25857926",
+      "price": "1350000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000001",
+      "thumbnail": "assets/mas/by-sha256/27e0c86eb1d30a87162b38f3.webp"
+    },
+    {
+      "id": "0c3052e2-2687-457e-8827-fdddd084f568",
+      "code": "OSSB-1101-H0.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 500mm x H 500mm x D 80mm",
+      "itemNumber": "25857927",
+      "price": "1700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000002",
+      "thumbnail": "assets/mas/by-sha256/f04ed98a0e3b4f85758b0e62.webp"
+    },
+    {
+      "id": "c48201cf-9fd7-4a92-9bc0-5a6c6bee4c0b",
+      "code": "OSSB-1101-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 100mm",
+      "itemNumber": "25857928",
+      "price": "1850000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000003",
+      "thumbnail": "assets/mas/by-sha256/3f830eb360b530cf12fa15f5.webp"
+    },
+    {
+      "id": "b23434c2-931e-45d6-8223-df812f8abb93",
+      "code": "OSSB-1101-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 150mm",
+      "itemNumber": "25857929",
+      "price": "2500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000004",
+      "thumbnail": "assets/mas/by-sha256/82fc665150249cabf6524464.webp"
+    },
+    {
+      "id": "70d0b790-0bfb-403c-8862-86eb3bdde3f5",
+      "code": "OSSB-1101-H1.2",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,200mm x H 1,200mm x D 150mm",
+      "itemNumber": "25857930",
+      "price": "3400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000005",
+      "thumbnail": "assets/mas/by-sha256/523bcbf4a07bcabb94e3354d.webp"
+    },
+    {
+      "id": "26b796d6-ee24-419a-b16d-01b21e614704",
+      "code": "OSSB-1101-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 200mm",
+      "itemNumber": "25857931",
+      "price": "4750000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000006",
+      "thumbnail": "assets/mas/by-sha256/d9e3a87423b836aafc6196e1.webp"
+    },
+    {
+      "id": "829b7452-ba46-40f7-b7a0-bb4e6fd2ff5d",
+      "code": "OSSB-1101-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 400mm",
+      "itemNumber": "25857932",
+      "price": "9100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000007",
+      "thumbnail": "assets/mas/by-sha256/a5959551b70c8e12d70392f0.webp"
+    },
+    {
+      "id": "6dde880b-ddab-435a-a58f-3e98f245f101",
+      "code": "OSSB-1101-H3.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 3,000mm x D 600mm",
+      "itemNumber": "26109595",
+      "price": "18590000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000058",
+      "thumbnail": "assets/mas/by-sha256/a5959551b70c8e12d70392f0.webp"
+    },
+    {
+      "id": "0d5fee16-22df-405d-a35a-01f285e166e9",
+      "code": "OSSB-1201-H0.3",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 300mm x H 300mm x D 80mm",
+      "itemNumber": "25857933",
+      "price": "1600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000008",
+      "thumbnail": "assets/mas/by-sha256/e89543856d7cb9daddc07c95.webp"
+    },
+    {
+      "id": "2d3c41e8-6ebd-4f12-a7d5-3550e02e1bfa",
+      "code": "OSSB-1201-H0.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 500mm x H 500mm x D 80mm",
+      "itemNumber": "25857934",
+      "price": "1900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000009",
+      "thumbnail": "assets/mas/by-sha256/395b0da77a494fcf14c96c1c.webp"
+    },
+    {
+      "id": "7c7232da-0978-4152-8713-b68fda47a0c6",
+      "code": "OSSB-1201-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 100mm",
+      "itemNumber": "25857935",
+      "price": "2300000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000010",
+      "thumbnail": "assets/mas/by-sha256/025186e76c3bcc59773adbff.webp"
+    },
+    {
+      "id": "d54c3ae6-bfb6-4037-a9d7-a33bf11a0a44",
+      "code": "OSSB-1201-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 150mm",
+      "itemNumber": "25857936",
+      "price": "3100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000011",
+      "thumbnail": "assets/mas/by-sha256/941b91e57981afa393b1b2b1.webp"
+    },
+    {
+      "id": "25adf97e-192d-4538-ab7b-05795a6c5e34",
+      "code": "OSSB-1201-H1.2",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,200mm x H 1,200mm x D 150mm",
+      "itemNumber": "25857937",
+      "price": "3950000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000012",
+      "thumbnail": "assets/mas/by-sha256/11fce623e1c8d32e0ee62fd6.webp"
+    },
+    {
+      "id": "fae08f55-01c3-44ef-b1e0-2b954359b19c",
+      "code": "OSSB-1201-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 200mm",
+      "itemNumber": "25857943",
+      "price": "5450000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000013",
+      "thumbnail": "assets/mas/by-sha256/e7a8d1395e4519e42411bdf1.webp"
+    },
+    {
+      "id": "f71cd488-83af-40bb-96b0-9be1ddfb0259",
+      "code": "OSSB-1201-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 400mm",
+      "itemNumber": "25857938",
+      "price": "10200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000014",
+      "thumbnail": "assets/mas/by-sha256/4436b1896311d09e0ea7319c.webp"
+    },
+    {
+      "id": "30b75f4b-361c-44e7-a61c-aeef47c86585",
+      "code": "OSSB-1201-H3.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 3,000mm x D 600mm",
+      "itemNumber": "26109596",
+      "price": "19470000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000059",
+      "thumbnail": "assets/mas/by-sha256/4436b1896311d09e0ea7319c.webp"
+    },
+    {
+      "id": "2a4f0a59-043c-4c16-9171-e48e25b1ca78",
+      "code": "OSSB-2101-H0.75",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 750mm x H 750mm x D 100mm",
+      "itemNumber": "25857939",
+      "price": "2600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000015",
+      "thumbnail": "assets/mas/by-sha256/4ae553a40f5edf7ff74b8590.webp"
+    },
+    {
+      "id": "de269f72-5ea3-40fe-b437-8a925515b102",
+      "code": "OSSB-2101-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 150mm",
+      "itemNumber": "25857940",
+      "price": "3500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000016",
+      "thumbnail": "assets/mas/by-sha256/aa9756ae5741afc71d38be19.webp"
+    },
+    {
+      "id": "9efbc1a5-2b8e-4aea-9ca9-6e02b68bc615",
+      "code": "OSSB-2101-H1.2",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,200mm x H 1,200mm x D 150mm",
+      "itemNumber": "25857941",
+      "price": "5300000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000017",
+      "thumbnail": "assets/mas/by-sha256/0c100cf955175e8659f0df58.webp"
+    },
+    {
+      "id": "971e088a-a9cf-4c8a-a9f5-7cabfe9d912c",
+      "code": "OSSB-2101-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 200mm",
+      "itemNumber": "25857942",
+      "price": "6200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000018",
+      "thumbnail": "assets/mas/by-sha256/62a7d2d94038e531f04f28e3.webp"
+    },
+    {
+      "id": "7a868c18-a78b-4f68-a7ca-32440d678d7f",
+      "code": "OSSB-2105-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 70mm",
+      "itemNumber": "26109626",
+      "price": "1903000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000090",
+      "thumbnail": "assets/mas/by-sha256/7ec9f4f71bd57e9def3308bb.webp"
+    },
+    {
+      "id": "bcd0c306-55e7-428c-ad89-a6b14f3a1aa8",
+      "code": "OSSB-2105-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 100mm",
+      "itemNumber": "26109627",
+      "price": "2343000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000091",
+      "thumbnail": "assets/mas/by-sha256/29fb7c09118124594913ed57.webp"
+    },
+    {
+      "id": "bb7ed80b-f98b-4aa8-91b2-bc1533d9fb63",
+      "code": "OSSB-2105-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 150mm",
+      "itemNumber": "26109628",
+      "price": "5720000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000092",
+      "thumbnail": "assets/mas/by-sha256/184bbbfb624b02b8ca16c1a3.webp"
+    },
+    {
+      "id": "7784ca86-057d-4285-a114-f530aa544e47",
+      "code": "OSSB-2105-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 200mm",
+      "itemNumber": "26109629",
+      "price": "10560000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000093",
+      "thumbnail": "assets/mas/by-sha256/e5af47ce6e7a5119361d1893.webp"
+    },
+    {
+      "id": "a266e2b2-1af6-41df-9253-d30e4c39f9aa",
+      "code": "OSSB-2202-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 150mm",
+      "itemNumber": "26109617",
+      "price": "2970000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000080",
+      "thumbnail": "assets/mas/by-sha256/779ccf1048814062860d0b96.webp"
+    },
+    {
+      "id": "b780a05b-bdea-4dff-9d29-1187024d6fb3",
+      "code": "OSSB-2202-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 200mm",
+      "itemNumber": "26109618",
+      "price": "3740000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000081",
+      "thumbnail": "assets/mas/by-sha256/6fa2b3bf68d092d8ad889b22.webp"
+    },
+    {
+      "id": "342f9aae-b78c-4c88-bb24-17d516a7d0de",
+      "code": "OSSB-2202-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 300mm",
+      "itemNumber": "26109619",
+      "price": "6930000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000082",
+      "thumbnail": "assets/mas/by-sha256/e8373725573b5082066c5667.webp"
+    },
+    {
+      "id": "9b1ef51a-3970-4f13-8e89-8e34120aeeb7",
+      "code": "OSSB-2202-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 400mm",
+      "itemNumber": "26113146",
+      "price": "11880000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000083",
+      "thumbnail": "assets/mas/by-sha256/340ec1947199f11120713584.webp"
+    },
+    {
+      "id": "270fd0ac-18de-45b3-bf2d-2c37fc5e289d",
+      "code": "OSSB-2203-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 180mm",
+      "itemNumber": "26109620",
+      "price": "4785000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000084",
+      "thumbnail": "assets/mas/by-sha256/a92be912963f5a941d69fcda.webp"
+    },
+    {
+      "id": "a4c1400d-2597-48ea-b3b0-4bff9abd757e",
+      "code": "OSSB-2203-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,100mm x H 1,000mm x D 200mm",
+      "itemNumber": "26109621",
+      "price": "5940000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000085",
+      "thumbnail": "assets/mas/by-sha256/8b44a7b6d23e477e25dcc403.webp"
+    },
+    {
+      "id": "c9a39497-c6d2-4c35-9237-255cbb7350fe",
+      "code": "OSSB-2204-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 130mm",
+      "itemNumber": "26109622",
+      "price": "2750000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000086",
+      "thumbnail": "assets/mas/by-sha256/a19b718d5ce34bcf8adc7091.webp"
+    },
+    {
+      "id": "2b66019a-ac1d-46b6-865d-4d4619356a31",
+      "code": "OSSB-2204-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 170mm",
+      "itemNumber": "26109623",
+      "price": "3520000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000087",
+      "thumbnail": "assets/mas/by-sha256/b500f0cb350627c4ea352fae.webp"
+    },
+    {
+      "id": "8c52334e-366f-4481-929c-03179b7fd676",
+      "code": "OSSB-2204-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 230mm",
+      "itemNumber": "26109624",
+      "price": "6710000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000088",
+      "thumbnail": "assets/mas/by-sha256/1eca5018805e1d6a287ae5aa.webp"
+    },
+    {
+      "id": "319d3f86-0ba1-40f3-9e05-dfe7b6ff436e",
+      "code": "OSSB-2204-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 300mm",
+      "itemNumber": "26109625",
+      "price": "11000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000089",
+      "thumbnail": "assets/mas/by-sha256/9de3d1367210eabc4a088f4b.webp"
+    },
+    {
+      "id": "c0f4b7ef-e7a3-47fe-b1d1-1a3c2d78d1f9",
+      "code": "OSSB-2206-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 90mm",
+      "itemNumber": "26109630",
+      "price": "3685000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000094",
+      "thumbnail": "assets/mas/by-sha256/088d89b8190f7a28c726b3f3.webp"
+    },
+    {
+      "id": "7b388e77-90ad-461f-858e-552c7f7f6b09",
+      "code": "OSSB-2206-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 120mm",
+      "itemNumber": "26109631",
+      "price": "4400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000095",
+      "thumbnail": "assets/mas/by-sha256/0cd6117cb6c29ec394455d03.webp"
+    },
+    {
+      "id": "efbfd43d-6658-474e-b809-5bbe22b6aea5",
+      "code": "OSSB-2206-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 155mm",
+      "itemNumber": "26109632",
+      "price": "7315000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000096",
+      "thumbnail": "assets/mas/by-sha256/50d89caaa884045ea08800b8.webp"
+    },
+    {
+      "id": "18899d19-8a59-4bb3-9f06-7de24302b723",
+      "code": "OSSB-2206-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 200mm",
+      "itemNumber": "26109633",
+      "price": "12320000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000097",
+      "thumbnail": "assets/mas/by-sha256/3a975615dd1e67ed7c73b2af.webp"
+    },
+    {
+      "id": "2bca0455-355e-4425-bfda-cd452fd1d6c8",
+      "code": "OSSB-3101",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,300mm x H 3,000mm x D 1,000mm",
+      "itemNumber": "25857944",
+      "price": "20900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000019",
+      "thumbnail": "assets/mas/by-sha256/0f38383bcde43d9ea44675a0.webp"
+    },
+    {
+      "id": "98cd9448-6d65-47ed-abc6-b66866837e52",
+      "code": "OSSB-3102-H3.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 420mm x H 3,000mm x D 420mm",
+      "itemNumber": "25857945",
+      "price": "31000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000020",
+      "thumbnail": "assets/mas/by-sha256/3da99d39f4addd3d17726a3a.webp"
+    },
+    {
+      "id": "86ce8cb4-4b2e-4605-9899-0f022025185d",
+      "code": "OSSB-3102-H5.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 680mm x H 5,000mm x D 680mm",
+      "itemNumber": "25857946",
+      "price": "45000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000021",
+      "thumbnail": "assets/mas/by-sha256/0322c9c7360997cbcf54661d.webp"
+    },
+    {
+      "id": "a0c2ee8a-5102-4986-a36b-94e2e2cafd83",
+      "code": "OSSB-3103-H10.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 10,000mm x D 640mm",
+      "itemNumber": "26008442",
+      "price": "45100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000037",
+      "thumbnail": "assets/mas/by-sha256/202934b5932c0f44e23c7a99.webp"
+    },
+    {
+      "id": "74a2a882-1621-4624-8be0-e6f2d5cf4062",
+      "code": "OSSB-3103-H12.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,800mm x H 12,000mm x D 740mm",
+      "itemNumber": "26008443",
+      "price": "53900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000038",
+      "thumbnail": "assets/mas/by-sha256/d5a7f4ae5f2f4790e2a3f498.webp"
+    },
+    {
+      "id": "76704643-f1f4-41ba-909f-f8a388dee64e",
+      "code": "OSSB-3103-H3.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 400mm x H 3,000mm x D 200mm",
+      "itemNumber": "25857947",
+      "price": "13800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000022",
+      "thumbnail": "assets/mas/by-sha256/e0b8598e49a8847f89ffdf5a.webp"
+    },
+    {
+      "id": "eb609581-6243-4da1-a6d3-adcb0a2718b6",
+      "code": "OSSB-3103-H5.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 650mm x H 5,000mm x D 300mm",
+      "itemNumber": "25857948",
+      "price": "24500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000023",
+      "thumbnail": "assets/mas/by-sha256/c4e4d2b56cae281bb756ba00.webp"
+    },
+    {
+      "id": "8e0edd3e-f740-49d1-8822-630840981c51",
+      "code": "OSSB-3103-H7.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 950mm x H 7,000mm x D 500mm",
+      "itemNumber": "25857949",
+      "price": "38500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000024",
+      "thumbnail": "assets/mas/by-sha256/fd942561f14f5699389426c0.webp"
+    },
+    {
+      "id": "7e974e7c-2dbe-4790-9b9e-802317d1e9c5",
+      "code": "OSSB-3103-H8.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,200mm x H 8,000mm x D 540mm",
+      "itemNumber": "26008441",
+      "price": "40700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000036",
+      "thumbnail": "assets/mas/by-sha256/43fc7be06192b581578fae60.webp"
+    },
+    {
+      "id": "3d46beca-c356-45d3-9325-b75b47ec097a",
+      "code": "OSSB-3104",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,400mm x H 8,000mm x D 500mm",
+      "itemNumber": "26008444",
+      "price": "49500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000039",
+      "thumbnail": "assets/mas/by-sha256/fc9f6eec0e6c8d90d00364ff.webp"
+    },
+    {
+      "id": "8dc8884f-478c-4b68-961c-31226e255ef9",
+      "code": "OSSB-3105",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,600mm x H 10,000mm x D 600mm",
+      "itemNumber": "26008445",
+      "price": "52800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000040",
+      "thumbnail": "assets/mas/by-sha256/ec61de95d50ec295cce82edc.webp"
+    },
+    {
+      "id": "18cd06be-b7f8-412b-bb3b-f6c36026c531",
+      "code": "OSSB-3106",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,800mm x H 12,000mm x D 700mm",
+      "itemNumber": "26008446",
+      "price": "60500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000041",
+      "thumbnail": "assets/mas/by-sha256/4147a54d7f30bbaf47382edb.webp"
+    },
+    {
+      "id": "b9703333-b17f-4a43-976f-bf4f48234af2",
+      "code": "OSSB-3107",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,250mm x H 4,200mm x D 160mm",
+      "itemNumber": "26008447",
+      "price": "29700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000042",
+      "thumbnail": "assets/mas/by-sha256/811e4267452266d5283f2425.webp"
+    },
+    {
+      "id": "e3e567e9-e74b-4363-8537-24026038da90",
+      "code": "OSSB-3108",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,850mm x H 4,750mm x D 200mm",
+      "itemNumber": "26008448",
+      "price": "35200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000043",
+      "thumbnail": "assets/mas/by-sha256/77cb97031544572059a4d605.webp"
+    },
+    {
+      "id": "3fff2afa-49ca-41f4-89a9-86e937915180",
+      "code": "OSSB-3109",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,250mm x H 4,720mm x D 650mm",
+      "itemNumber": "26008449",
+      "price": "38500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000044",
+      "thumbnail": "assets/mas/by-sha256/8b17f124c4c56eb47e507192.webp"
+    },
+    {
+      "id": "a92f3094-b32f-46e4-9e69-cbdf40e39e19",
+      "code": "OSSB-3110",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 970mm x H 2,300mm x D 700mm",
+      "itemNumber": "26008450",
+      "price": "14960000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000045",
+      "thumbnail": "assets/mas/by-sha256/430bb883246cb943024cffa9.webp"
+    },
+    {
+      "id": "722876b6-99f2-4afd-97e1-5466d7dd979b",
+      "code": "OSSB-3111",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 940mm x H 2,300mm x D 600mm",
+      "itemNumber": "26008451",
+      "price": "14960000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000046",
+      "thumbnail": "assets/mas/by-sha256/80c7baa5c74fb70aea68c020.webp"
+    },
+    {
+      "id": "e9338037-0409-4093-8580-db8b55199207",
+      "code": "OSSB-3201",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 725mm x H 3,000mm x D 125mm",
+      "itemNumber": "26366938",
+      "price": "27500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000114",
+      "thumbnail": "assets/mas/by-sha256/298bda65b9a738bfba0bf155.webp"
+    },
+    {
+      "id": "064a3d77-0ded-4c01-a64c-5b2c51444611",
+      "code": "OSSB-3202",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,400mm x H 3,300mm x D 200mm",
+      "itemNumber": "26366939",
+      "price": "30800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000115",
+      "thumbnail": "assets/mas/by-sha256/8d3bb12da640f1a950017732.webp"
+    },
+    {
+      "id": "2f5721dc-7ebd-4792-a0c6-35e11e590518",
+      "code": "OSSB-3203",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 6,500mm x D 2,900mm",
+      "itemNumber": "26366940",
+      "price": "75900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000116",
+      "thumbnail": "assets/mas/by-sha256/8eb2c5f3282aeb0523be5a43.webp"
+    },
+    {
+      "id": "cec00de9-c4d1-4c68-9f8d-59586eaa399e",
+      "code": "OSSB-3204",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,350mm x H 3,520mm x D 350mm",
+      "itemNumber": "26366941",
+      "price": "37400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000117",
+      "thumbnail": "assets/mas/by-sha256/75a14e80f2269c7ba655720e.webp"
+    },
+    {
+      "id": "70217d61-cdee-493b-84c8-fb1f9cc6eeda",
+      "code": "OSSB-4101",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 1,250mm x D 300mm",
+      "itemNumber": "25857950",
+      "price": "25300000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000025",
+      "thumbnail": "assets/mas/by-sha256/36178a12de965d214b279e26.webp"
+    },
+    {
+      "id": "af226c59-696d-44e6-b8a5-49773c1c411b",
+      "code": "OSSB-4102",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 1,750mm x D 500mm",
+      "itemNumber": "25857951",
+      "price": "35000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000026",
+      "thumbnail": "assets/mas/by-sha256/066a5fbbb103d822ef25ea96.webp"
+    },
+    {
+      "id": "13b5ae25-3e9f-428f-9340-245da0993a6e",
+      "code": "OSSB-4103",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,000mm x H 1,500mm x D 400mm",
+      "itemNumber": "25857952",
+      "price": "31500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000027",
+      "thumbnail": "assets/mas/by-sha256/34e1bbdd5d3053f486e34d5e.webp"
+    },
+    {
+      "id": "5f590ea8-a4fb-4cdf-b851-6310cbe77645",
+      "code": "OSSB-4104",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,000mm x H 2,400mm x D 250mm",
+      "itemNumber": "25857953",
+      "price": "47300000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000028",
+      "thumbnail": "assets/mas/by-sha256/7d71da1b89e336a10d20f8c2.webp"
+    },
+    {
+      "id": "a6a50a81-2684-4e69-a469-788715de6e32",
+      "code": "OSSB-4105",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 7,000mm x H 2,300mm x D 600mm",
+      "itemNumber": "25857954",
+      "price": "28000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000029",
+      "thumbnail": "assets/mas/by-sha256/47233ebfbccdad533f689ef3.webp"
+    },
+    {
+      "id": "9d1efcab-d1c6-449b-8130-0f63188eb7cf",
+      "code": "OSSB-4106",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 7,000mm x H 300mm x D 2,000mm",
+      "itemNumber": "25857955",
+      "price": "42000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000030",
+      "thumbnail": "assets/mas/by-sha256/42d73fb7af057a21374834d0.webp"
+    },
+    {
+      "id": "bfcb24a4-0963-4ba7-b003-9976a703bfd0",
+      "code": "OSSB-4107",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 300mm",
+      "itemNumber": "25857956",
+      "price": "8690000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000031",
+      "thumbnail": "assets/mas/by-sha256/7b3b0a50af154b73bd407ce2.webp"
+    },
+    {
+      "id": "d86c7131-a7cb-47aa-82dc-1fbfc65b38c7",
+      "code": "OSSB-4108",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 200mm",
+      "itemNumber": "25857957",
+      "price": "10450000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000032",
+      "thumbnail": "assets/mas/by-sha256/897563385a154e843e805383.webp"
+    },
+    {
+      "id": "70cc33e3-cb41-41ad-a063-d969c89c5163",
+      "code": "OSSB-4109",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 3,000mm x D 500mm",
+      "itemNumber": "25857958",
+      "price": "20900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000033",
+      "thumbnail": "assets/mas/by-sha256/a07d23f8085116cb4f2d716d.webp"
+    },
+    {
+      "id": "1d180239-98cf-403e-b96d-3c00e50e4600",
+      "code": "OSSB-4110",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 3,000mm x D 400mm",
+      "itemNumber": "25857959",
+      "price": "23100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000034",
+      "thumbnail": "assets/mas/by-sha256/e8fe1910d33d2cebed000f56.webp"
+    },
+    {
+      "id": "34d7505f-1ca8-407f-981f-a7a93b109126",
+      "code": "OSSB-4111",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,800mm x H 1,650mm x D 150mm",
+      "itemNumber": "25857960",
+      "price": "30272000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000035",
+      "thumbnail": "assets/mas/by-sha256/653d1b727f3dfa408a374309.webp"
+    },
+    {
+      "id": "44ffdebc-a264-418f-bfbe-0f3cef66ae59",
+      "code": "OSSB-4112",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 6,300mm x H 1,500mm x D 160mm",
+      "itemNumber": "26008452",
+      "price": "28050000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000047",
+      "thumbnail": "assets/mas/by-sha256/6438f94097f8393da6be3d76.webp"
+    },
+    {
+      "id": "4b1a4375-c23d-4015-bd5f-4dd1881dc19e",
+      "code": "OSSB-4113",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,500mm x H 3,380mm x D 1,500mm",
+      "itemNumber": "26008453",
+      "price": "29700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000048",
+      "thumbnail": "assets/mas/by-sha256/fae6b75c682ebfbf7bbc78bf.webp"
+    },
+    {
+      "id": "3c12706c-0c04-471d-bb66-4d493a189d89",
+      "code": "OSSB-4114",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 3,010mm x D 1,300mm",
+      "itemNumber": "26008454",
+      "price": "52800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000049",
+      "thumbnail": "assets/mas/by-sha256/2e4b657da651b30be73f3881.webp"
+    },
+    {
+      "id": "520a41c0-3c24-49d8-a6e9-a0d2c82e475c",
+      "code": "OSSB-4115",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,300mm x H 2,600mm x D 400mm",
+      "itemNumber": "26008455",
+      "price": "31900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000050",
+      "thumbnail": "assets/mas/by-sha256/d529c9c67b5ca3403325238c.webp"
+    },
+    {
+      "id": "ec131d00-0dac-4c4f-820b-e1f8fc8d22cc",
+      "code": "OSSB-4116",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,300mm x H 2,200mm x D 400mm",
+      "itemNumber": "26008456",
+      "price": "18700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000051",
+      "thumbnail": "assets/mas/by-sha256/92066d7b04544c880e63acda.webp"
+    },
+    {
+      "id": "474ae1ba-b146-4e5e-83ef-9180cd26675b",
+      "code": "OSSB-4117",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,800mm x H 2,670mm x D 160mm",
+      "itemNumber": "26008457",
+      "price": "20900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000052",
+      "thumbnail": "assets/mas/by-sha256/027021eb31a88e9e7ae9dc3a.webp"
+    },
+    {
+      "id": "b4c907a6-c1c8-445d-9568-c7683542b0f0",
+      "code": "OSSB-4118",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,100mm x H 2,400mm x D 150mm",
+      "itemNumber": "26008458",
+      "price": "18700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000053",
+      "thumbnail": "assets/mas/by-sha256/ae6ffe915065b094f0b42551.webp"
+    },
+    {
+      "id": "f21c0f99-7d1a-47a8-b846-09a8f9a2e3b6",
+      "code": "OSSB-4119",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,700mm x H 1,100mm x D 1,500mm",
+      "itemNumber": "26008459",
+      "price": "37400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000054",
+      "thumbnail": "assets/mas/by-sha256/8ca6a3667407517833c84070.webp"
+    },
+    {
+      "id": "dba4df62-46e0-40f7-88d2-8b2113c27db6",
+      "code": "OSSB-4120",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,900mm x H 1,800mm x D 100mm",
+      "itemNumber": "26008460",
+      "price": "18150000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000055",
+      "thumbnail": "assets/mas/by-sha256/7382ee81f717a0a3e10b4d0c.webp"
+    },
+    {
+      "id": "996197f8-0434-4071-b91f-0ebc17296690",
+      "code": "OSSB-4121",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,600mm x H 2,300mm x D 350mm",
+      "itemNumber": "26008461",
+      "price": "16500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000056",
+      "thumbnail": "assets/mas/by-sha256/ba76d0a8f2b49d1116476e5f.webp"
+    },
+    {
+      "id": "1f488b27-7183-4f8f-931c-f2ada5f43f6e",
+      "code": "OSSB-4122",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,100mm x H 3,050mm x D 525mm",
+      "itemNumber": "26008462",
+      "price": "34100000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000057",
+      "thumbnail": "assets/mas/by-sha256/bbb5c8cca51a18d2b25982e9.webp"
+    },
+    {
+      "id": "3ab57d0a-605c-48c2-a617-f9980d200fae",
+      "code": "OSSB-4123",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,050mm x H 1,920mm x D 440mm",
+      "itemNumber": "26366942",
+      "price": "32450000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000118",
+      "thumbnail": "assets/mas/by-sha256/72ad8ebd9eadc46d4decba15.webp"
+    },
+    {
+      "id": "733dd55d-8274-4136-8401-4aee4d94be6f",
+      "code": "OSSB-4124",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,800mm x H 3,400mm x D 800mm",
+      "itemNumber": "26366943",
+      "price": "29370000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000119",
+      "thumbnail": "assets/mas/by-sha256/d85d35a340d02c32a58894d9.webp"
+    },
+    {
+      "id": "8abc50d5-bcfe-48a2-8b08-ebfbe9c1e2d5",
+      "code": "OSSB-4125",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 2,000mm x D 100mm",
+      "itemNumber": "26366944",
+      "price": "21340000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000120",
+      "thumbnail": "assets/mas/by-sha256/8e8ab87ac166b62c0431f499.webp"
+    },
+    {
+      "id": "3547f119-ff3f-4bbd-a9d0-6cc1f0ddc9f9",
+      "code": "OSSB-4126",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 1,500mm x D 100mm",
+      "itemNumber": "26366945",
+      "price": "17380000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000121",
+      "thumbnail": "assets/mas/by-sha256/983938b866b495fdaca6ebc5.webp"
+    },
+    {
+      "id": "0075b66b-86cb-4f72-b410-7036dc729500",
+      "code": "OSSB-4217",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,800mm x H 2,670mm x D 260mm",
+      "itemNumber": "26109605",
+      "price": "24200000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000068",
+      "thumbnail": "assets/mas/by-sha256/f7fa4a0e7d7fe73308975d95.webp"
+    },
+    {
+      "id": "393efca1-052f-4927-b619-2f3a3041d548",
+      "code": "OSSB-4223",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,730mm x H 3,400mm x D 330mm",
+      "itemNumber": "26109607",
+      "price": "27500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000070",
+      "thumbnail": "assets/mas/by-sha256/4151e361cf7f366d407efdb5.webp"
+    },
+    {
+      "id": "5a9a34fc-37a0-47c7-b48f-0cb4eb513620",
+      "code": "OSSB-4224",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,000mm x H 3,600mm x D 200mm",
+      "itemNumber": "26109608",
+      "price": "14740000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000071",
+      "thumbnail": "assets/mas/by-sha256/3b10980d927d55bf660727c7.webp"
+    },
+    {
+      "id": "f6a92da9-891c-4d6c-983b-39a6b5b62d92",
+      "code": "OSSB-4225",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,850mm x H 3,600mm x D 600mm",
+      "itemNumber": "26109609",
+      "price": "23870000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000072",
+      "thumbnail": "assets/mas/by-sha256/85aabf36ddaca281276c441f.webp"
+    },
+    {
+      "id": "193c2f53-73fa-41cb-8cbc-8b77ff2eb746",
+      "code": "OSSB-4226",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,450mm x H 3,350mm x D 400mm",
+      "itemNumber": "26109610",
+      "price": "28600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000073",
+      "thumbnail": "assets/mas/by-sha256/00eaa0519cb812de03734e73.webp"
+    },
+    {
+      "id": "729f73c0-2abc-41a6-9027-9c594bfe5a34",
+      "code": "OSSB-4227",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,750mm x H 3,600mm x D 130mm",
+      "itemNumber": "26109611",
+      "price": "6930000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000074",
+      "thumbnail": "assets/mas/by-sha256/7d339cca946ed1814312dae5.webp"
+    },
+    {
+      "id": "cfacea39-c5c7-4564-a433-99e991ca359b",
+      "code": "OSSB-4228",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,750mm x H 3,600mm x D 130mm",
+      "itemNumber": "26109612",
+      "price": "6160000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000075",
+      "thumbnail": "assets/mas/by-sha256/eaafed30d3e5ba0ee64bbf25.webp"
+    },
+    {
+      "id": "5db4b6fd-3efb-4741-863a-844ebf706b72",
+      "code": "OSSB-4229",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 3,600mm x D 130mm",
+      "itemNumber": "26109613",
+      "price": "7370000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000076",
+      "thumbnail": "assets/mas/by-sha256/22f16b772fd080e1959514dd.webp"
+    },
+    {
+      "id": "40ee4e57-5e2d-4243-bd37-14c718c4a80b",
+      "code": "OSSB-4230",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,650mm x H 3,600mm x D 130mm",
+      "itemNumber": "26109614",
+      "price": "13750000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000077",
+      "thumbnail": "assets/mas/by-sha256/9761520b30ebc6960c9b405a.webp"
+    },
+    {
+      "id": "ce179818-d6eb-462c-be10-7c2b73a067a9",
+      "code": "OSSB-4231",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,500mm x H 4,000mm x D 130mm",
+      "itemNumber": "26109615",
+      "price": "18480000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000078",
+      "thumbnail": "assets/mas/by-sha256/19435f1a66b58c868e90d483.webp"
+    },
+    {
+      "id": "7d38452d-a3f6-49cc-9883-c5ce233c638f",
+      "code": "OSSB-4232",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,600mm x H 3,700mm x D 130mm",
+      "itemNumber": "26109616",
+      "price": "20570000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000079",
+      "thumbnail": "assets/mas/by-sha256/871a747dca3c54718f868489.webp"
+    },
+    {
+      "id": "384f4be8-5a0e-44a5-a9c6-204791529c30",
+      "code": "OSSB-4233",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,000mm x H 2,500mm x D 125mm",
+      "itemNumber": "26366946",
+      "price": "29370000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000122",
+      "thumbnail": "assets/mas/by-sha256/8934d241acbcd3e7ce886994.webp"
+    },
+    {
+      "id": "4e2d360f-cc32-4143-9da0-68dc9bf63e3b",
+      "code": "OSSB-4234",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,700mm x H 4,450mm x D 450mm",
+      "itemNumber": "26366947",
+      "price": "51700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000123",
+      "thumbnail": "assets/mas/by-sha256/9fde037826450e25c6e322d6.webp"
+    },
+    {
+      "id": "8754381b-a10b-4e48-be2b-90e64cc6c171",
+      "code": "OSSB-4235",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,400mm x H 1,200mm x D 240mm",
+      "itemNumber": "26366948",
+      "price": "34650000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000124",
+      "thumbnail": "assets/mas/by-sha256/0a33242ea8bbe07aec6c5ec8.webp"
+    },
+    {
+      "id": "9e28e1dc-9c6d-4689-a787-bd665f04a5df",
+      "code": "OSSB-4236",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 6,800mm x H 1,650mm x D 200mm",
+      "itemNumber": "26366949",
+      "price": "51150000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000125",
+      "thumbnail": "assets/mas/by-sha256/928095e3d184593fdea1afab.webp"
+    },
+    {
+      "id": "838069af-fea5-4174-bd0a-3f20a48bdb94",
+      "code": "OSSB-4237",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,000mm x H 2,000mm x D 380mm",
+      "itemNumber": "26366950",
+      "price": "63800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000126",
+      "thumbnail": "assets/mas/by-sha256/e06972f96397ea07c7ff4666.webp"
+    },
+    {
+      "id": "26774851-d949-4788-b999-ae082da0f558",
+      "code": "OSSB-4238",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,400mm x H 1,650mm x D 250mm",
+      "itemNumber": "26366951",
+      "price": "30272000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000127",
+      "thumbnail": "assets/mas/by-sha256/bf5fcaa84f2bebb6d060ea1b.webp"
+    },
+    {
+      "id": "0f321409-fa72-4e2a-a869-d599592cbcdd",
+      "code": "OSSB-4239",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,650mm x H 3,250mm x D 1,200mm",
+      "itemNumber": "26366961",
+      "price": "31900000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000128",
+      "thumbnail": "assets/mas/by-sha256/967df8c666149aa3a01e9a61.webp"
+    },
+    {
+      "id": "f0833d6b-0425-4051-bff0-92095f96d9fc",
+      "code": "OSSB-4240",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,100mm x H 2,100mm x D 330mm",
+      "itemNumber": "26366952",
+      "price": "51700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000129",
+      "thumbnail": "assets/mas/by-sha256/1e8f693e1e8ffed4ce41e17b.webp"
+    },
+    {
+      "id": "48fb209a-510d-430c-acf2-34669cf4d198",
+      "code": "OSSB-4241",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,360mm x H 3,000mm x D 250mm",
+      "itemNumber": "26366953",
+      "price": "29370000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000130",
+      "thumbnail": "assets/mas/by-sha256/963eb095d73bc7f7e49f868f.webp"
+    },
+    {
+      "id": "2da4e743-3eb3-44f1-8441-e8ff76525467",
+      "code": "OSSB-4242",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,400mm x H 2,050mm x D 750mm",
+      "itemNumber": "26366954",
+      "price": "29700000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000131",
+      "thumbnail": "assets/mas/by-sha256/c14b4c64aff5fc5f473669e8.webp"
+    },
+    {
+      "id": "94fad3b7-de68-4a41-84b0-a4941c5178ef",
+      "code": "OSSB-4243",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,000mm x H 1,120mm x D 1,350mm",
+      "itemNumber": "26366955",
+      "price": "41800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000132",
+      "thumbnail": "assets/mas/by-sha256/b01b3a44d89bbf5fe1eef40d.webp"
+    },
+    {
+      "id": "5962c97d-2db9-4504-b27e-86f5b86b0394",
+      "code": "OSSB-4244",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,280mm x H 3,000mm x D 750mm",
+      "itemNumber": "26366956",
+      "price": "30800000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000133",
+      "thumbnail": "assets/mas/by-sha256/900fddd0d0b4425e02c77849.webp"
+    },
+    {
+      "id": "1d098933-4416-497c-844a-b74cd2cb887d",
+      "code": "OSSB-4245",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 3,700mm x H 2,650mm x D 2,150mm",
+      "itemNumber": "26366957",
+      "price": "34870000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000134",
+      "thumbnail": "assets/mas/by-sha256/a61f0716af51a311d5b83c15.webp"
+    },
+    {
+      "id": "1e5e8021-65c3-4525-a4ad-48a1944968b8",
+      "code": "OSSB-4246",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 6,000mm x H 2,800mm x D 650mm",
+      "itemNumber": "26366958",
+      "price": "58740000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000135",
+      "thumbnail": "assets/mas/by-sha256/3da74d46934fc8b4ed9b2165.webp"
+    },
+    {
+      "id": "f176c1f2-7df0-4569-a90c-13fade0ae297",
+      "code": "OSSB-6101",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,450mm x H 3,750mm x D 850mm",
+      "itemNumber": "26109634",
+      "price": "48070000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000098",
+      "thumbnail": "assets/mas/by-sha256/ce78aa5efd4236374235ef91.webp"
+    },
+    {
+      "id": "42a7663c-ac3b-4415-9da4-d165deb80139",
+      "code": "OSSB-6102",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,480mm x H 3,300mm x D 130mm",
+      "itemNumber": "26109606",
+      "price": "4697000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000069",
+      "thumbnail": "assets/mas/by-sha256/cb8a42f10388a8c0d4bdd7b7.webp"
+    },
+    {
+      "id": "543850f1-2392-425a-84dd-ddd409e82210",
+      "code": "OSSB-6103",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,950mm x H 2,750mm x D 700mm",
+      "itemNumber": "26109648",
+      "price": "28000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000099",
+      "thumbnail": "assets/mas/by-sha256/e94871f70666fd39f433ace5.webp"
+    },
+    {
+      "id": "ea242400-b4ce-4a39-ab5f-4dd606366d00",
+      "code": "OSSB-6104",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,050mm x H 2,100mm x D 400mm",
+      "itemNumber": "26109635",
+      "price": "15000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000100",
+      "thumbnail": "assets/mas/by-sha256/5191ac145f521a67e071f80a.webp"
+    },
+    {
+      "id": "96a85c6e-2ea9-4af8-b9cb-1280dddc163c",
+      "code": "OSSB-6105",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,300mm x H 1,200mm x D 550mm",
+      "itemNumber": "26109636",
+      "price": "16500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000101",
+      "thumbnail": "assets/mas/by-sha256/f971b8fded2bd60ff09fbd29.webp"
+    },
+    {
+      "id": "5f773928-3f76-452f-9264-bdbb11ea0e60",
+      "code": "OSSB-6106",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 6,900mm x H 1,600mm x D 300mm",
+      "itemNumber": "26109637",
+      "price": "28000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000102",
+      "thumbnail": "assets/mas/by-sha256/2d74727b228c15bec1098477.webp"
+    },
+    {
+      "id": "30b1b977-5d0b-4604-af22-af994c9a1b97",
+      "code": "OSSB-6107",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 7,500mm x H 1,650mm x D 300mm",
+      "itemNumber": "26109638",
+      "price": "42000000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000103",
+      "thumbnail": "assets/mas/by-sha256/8f3989d3e54d6395e19092f2.webp"
+    },
+    {
+      "id": "fce66254-41e7-4f2a-b024-bc2dfb01f1b6",
+      "code": "OSSB-6108",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 5,500mm x H 1,400mm x D 300mm",
+      "itemNumber": "26109639",
+      "price": "25300000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000104",
+      "thumbnail": "assets/mas/by-sha256/631948964ed1c2501ac32215.webp"
+    },
+    {
+      "id": "973d8efe-0e03-4462-a035-4e5faebe5dd0",
+      "code": "OSSB-6109",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 4,900mm x H 4,000mm x D 1,830mm",
+      "itemNumber": "26117290",
+      "price": "49500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000113",
+      "thumbnail": "assets/mas/by-sha256/b32ad25e68644e88a16f3adb.webp"
+    },
+    {
+      "id": "0720b868-86f6-4943-be7f-e02765b40f09",
+      "code": "OSSB-6110",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,880mm x H 4,300mm x D 350mm",
+      "itemNumber": "26366959",
+      "price": "38500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000136",
+      "thumbnail": "assets/mas/by-sha256/c670b5437e39220d347316e5.webp"
+    },
+    {
+      "id": "b36dfeab-e15d-4033-a62e-98162941168c",
+      "code": "OSSB-6111",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 8,200mm x H 3,100mm x D 1,650mm",
+      "itemNumber": "26373731",
+      "price": "48400000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000137",
+      "thumbnail": "assets/mas/by-sha256/5f915f708c2c312959fbde7c.webp"
+    },
+    {
+      "id": "06d28afb-c6c9-4c15-a08d-3a42803f42f6",
+      "code": "OSSB-6112",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 6,200mm x H 2,500mm x D 1,200mm",
+      "itemNumber": "26366994",
+      "price": "21450000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000138",
+      "thumbnail": "assets/mas/by-sha256/a3223b5d2c2a390c91cc315f.webp"
+    },
+    {
+      "id": "89ff4b30-74e7-45f2-aeb9-7be9204f97ba",
+      "code": "OSSB-7101-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 170mm",
+      "itemNumber": "26109597",
+      "price": "2475000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000060",
+      "thumbnail": "assets/mas/by-sha256/3f830eb360b530cf12fa15f5.webp"
+    },
+    {
+      "id": "9bbb48d9-0693-4c13-9d03-646e4855910e",
+      "code": "OSSB-7101-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 220mm",
+      "itemNumber": "26109598",
+      "price": "3410000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000061",
+      "thumbnail": "assets/mas/by-sha256/82fc665150249cabf6524464.webp"
+    },
+    {
+      "id": "ed1fa108-71d4-4f9a-a5b7-7502e2bd56a9",
+      "code": "OSSB-7101-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 270mm",
+      "itemNumber": "26109599",
+      "price": "6325000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000062",
+      "thumbnail": "assets/mas/by-sha256/d9e3a87423b836aafc6196e1.webp"
+    },
+    {
+      "id": "d3941ab4-d354-4444-a705-24af717bf92e",
+      "code": "OSSB-7101-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 470mm",
+      "itemNumber": "26109600",
+      "price": "12320000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000063",
+      "thumbnail": "assets/mas/by-sha256/a5959551b70c8e12d70392f0.webp"
+    },
+    {
+      "id": "7da4c648-f701-4d8d-9ffe-f9e186f03eb3",
+      "code": "OSSB-7201-H0.7",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 700mm x H 700mm x D 170mm",
+      "itemNumber": "26109601",
+      "price": "3102000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000064",
+      "thumbnail": "assets/mas/by-sha256/025186e76c3bcc59773adbff.webp"
+    },
+    {
+      "id": "eb364c75-d4fc-471f-bdc2-5ca9e5266497",
+      "code": "OSSB-7201-H1.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 220mm",
+      "itemNumber": "26109602",
+      "price": "4202000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000065",
+      "thumbnail": "assets/mas/by-sha256/941b91e57981afa393b1b2b1.webp"
+    },
+    {
+      "id": "45338ffe-6b71-46fb-9c72-7d176df87b00",
+      "code": "OSSB-7201-H1.5",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,500mm x H 1,500mm x D 270mm",
+      "itemNumber": "26109603",
+      "price": "7150000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000066",
+      "thumbnail": "assets/mas/by-sha256/e7a8d1395e4519e42411bdf1.webp"
+    },
+    {
+      "id": "a33f805b-f600-44dd-9972-b269232e9094",
+      "code": "OSSB-7201-H2.0",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 2,000mm x H 2,000mm x D 470mm",
+      "itemNumber": "26109604",
+      "price": "13750000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000067",
+      "thumbnail": "assets/mas/by-sha256/decc8a5fd851bf2d64abdad1.webp"
+    },
+    {
+      "id": "a13bbe68-3ebc-4eb2-afea-eab35e35fe7c",
+      "code": "OSSB-8101",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 300mm x D 300mm",
+      "itemNumber": "26109740",
+      "price": "1420000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000105",
+      "thumbnail": null
+    },
+    {
+      "id": "d96e1fd8-7717-461b-afe6-f79505ea3aeb",
+      "code": "OSSB-8102",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 500mm x D 300mm",
+      "itemNumber": "26109741",
+      "price": "1630000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000106",
+      "thumbnail": null
+    },
+    {
+      "id": "2f6245d4-600b-4013-8b43-f14025801f1c",
+      "code": "OSSB-8103",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 300mm",
+      "itemNumber": "26109742",
+      "price": "2300000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000107",
+      "thumbnail": null
+    },
+    {
+      "id": "25181ef9-3e31-40e9-9e48-9484a2c9e32e",
+      "code": "OSSB-8104",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 300mm x D 500mm",
+      "itemNumber": "26109743",
+      "price": "1600000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000108",
+      "thumbnail": null
+    },
+    {
+      "id": "6a617316-0f32-4f70-813e-5f5dc33115dd",
+      "code": "OSSB-8105",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 500mm x D 500mm",
+      "itemNumber": "26109744",
+      "price": "1950000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000109",
+      "thumbnail": null
+    },
+    {
+      "id": "a4d8dedb-927f-4f4f-b536-024e8c97b95c",
+      "code": "OSSB-8106",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 1,000mm x D 500mm",
+      "itemNumber": "26109745",
+      "price": "2500000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000110",
+      "thumbnail": null
+    },
+    {
+      "id": "19430851-78ec-4a0b-aa40-b5b0f0ff7042",
+      "code": "OSSB-8107",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 300mm x D 750mm",
+      "itemNumber": "26109746",
+      "price": "1750000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000111",
+      "thumbnail": null
+    },
+    {
+      "id": "168f76bd-3041-4c17-a000-54f3c3439767",
+      "code": "OSSB-8108",
+      "category": {
+        "code": "OSSB",
+        "name": "간판"
+      },
+      "specification": "L 1,000mm x H 500mm x D 750mm",
+      "itemNumber": "26109747",
+      "price": "2130000",
+      "currency": "KRW",
+      "vatIncluded": true,
+      "procurementUrl": "https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=R25TA00743603040000112",
+      "thumbnail": null
+    }
+  ],
+  "backgroundImages": [
+    "assets/mas/by-sha256/d0bf6cbe6a0e62be12374c45.webp",
+    "assets/mas/by-sha256/9823685aa880b2f5b9b7e46d.webp",
+    "assets/mas/by-sha256/fc457bbafa867d6daa7363fc.webp",
+    "assets/mas/by-sha256/22c57b1ffa79894a2fe23ef3.webp",
+    "assets/mas/by-sha256/aeb4c8cfe80e1e6f54aecb8a.webp",
+    "assets/mas/by-sha256/a19d2da9d4c1b08bf59b437f.webp",
+    "assets/mas/by-sha256/eb5b5619e79e540b22ddb629.webp",
+    "assets/mas/by-sha256/14f5c41444e5fdf61507b8fb.webp",
+    "assets/mas/by-sha256/89293cad93c7f9334321b2b6.webp",
+    "assets/mas/by-sha256/bbd36bec1d3ee171e7a9a27c.webp",
+    "assets/mas/by-sha256/317668b87dac09493c2da6be.webp",
+    "assets/mas/by-sha256/bdfd8368fed1efafdf67f85e.webp",
+    "assets/mas/by-sha256/726eef2a06b196d36077c587.webp",
+    "assets/mas/by-sha256/5345e1f8ef7b6eb252456919.webp",
+    "assets/mas/by-sha256/bc980eba8efe003c2113ca76.webp",
+    "assets/mas/by-sha256/b4828291abcfee1f212a6d10.webp",
+    "assets/mas/by-sha256/2f2ec0ebad5774044bd57b3b.webp",
+    "assets/mas/by-sha256/2003369dd2b5b5c8272108aa.webp",
+    "assets/mas/by-sha256/75a3e2af01ea6357eaaec2f5.webp",
+    "assets/mas/by-sha256/26d447271903426b9738f5c6.webp",
+    "assets/mas/by-sha256/464aa0a95c697852e88bb81d.webp",
+    "assets/mas/by-sha256/1faa72d805c409b75a0ae169.webp",
+    "assets/mas/by-sha256/eb597efbfdd762d2b5453b2c.webp",
+    "assets/mas/by-sha256/485466968a51baddf05729c4.webp",
+    "assets/mas/by-sha256/743861093877dc66a4417e46.webp",
+    "assets/mas/by-sha256/2006aaf4ad867c35635ca2b3.webp",
+    "assets/mas/by-sha256/cfac7d04826e4e5605053f77.webp",
+    "assets/mas/by-sha256/a7d8732013d7c9779a561d35.webp",
+    "assets/mas/by-sha256/372b183ea0ed34817f2aa9da.webp",
+    "assets/mas/by-sha256/4225123daf8cf1d47d4f2d1f.webp",
+    "assets/mas/by-sha256/7a9a96648f3ef0e9115af4ca.webp",
+    "assets/mas/by-sha256/eff41a1e1f4d0c12a24468d5.webp",
+    "assets/mas/by-sha256/bcd15aa7e1f50c340a3e18c9.webp",
+    "assets/mas/by-sha256/6d11f6edf34442aecb2fb762.webp",
+    "assets/mas/by-sha256/b435cd3dd488302e1a3dabc8.webp",
+    "assets/mas/by-sha256/3ce5fb452e486ba61bd78dd5.webp",
+    "assets/mas/by-sha256/2a4552f19b5add857e1f2bf9.webp",
+    "assets/mas/by-sha256/ab5f05682d0c520fcf7cb6ae.webp",
+    "assets/mas/by-sha256/9a1f9299d341fa887632c1fd.webp",
+    "assets/mas/by-sha256/29d7eaa04c4f1ec2c62ec85b.webp",
+    "assets/mas/by-sha256/3b0a55ae8cdf3cc08833077f.webp",
+    "assets/mas/by-sha256/27e0c86eb1d30a87162b38f3.webp",
+    "assets/mas/by-sha256/f04ed98a0e3b4f85758b0e62.webp",
+    "assets/mas/by-sha256/3f830eb360b530cf12fa15f5.webp",
+    "assets/mas/by-sha256/82fc665150249cabf6524464.webp",
+    "assets/mas/by-sha256/523bcbf4a07bcabb94e3354d.webp",
+    "assets/mas/by-sha256/d9e3a87423b836aafc6196e1.webp",
+    "assets/mas/by-sha256/a5959551b70c8e12d70392f0.webp",
+    "assets/mas/by-sha256/a5959551b70c8e12d70392f0.webp",
+    "assets/mas/by-sha256/4ae553a40f5edf7ff74b8590.webp",
+    "assets/mas/by-sha256/aa9756ae5741afc71d38be19.webp",
+    "assets/mas/by-sha256/0c100cf955175e8659f0df58.webp",
+    "assets/mas/by-sha256/62a7d2d94038e531f04f28e3.webp",
+    "assets/mas/by-sha256/7ec9f4f71bd57e9def3308bb.webp",
+    "assets/mas/by-sha256/29fb7c09118124594913ed57.webp",
+    "assets/mas/by-sha256/184bbbfb624b02b8ca16c1a3.webp",
+    "assets/mas/by-sha256/e5af47ce6e7a5119361d1893.webp",
+    "assets/mas/by-sha256/0f38383bcde43d9ea44675a0.webp",
+    "assets/mas/by-sha256/3da99d39f4addd3d17726a3a.webp",
+    "assets/mas/by-sha256/0322c9c7360997cbcf54661d.webp",
+    "assets/mas/by-sha256/202934b5932c0f44e23c7a99.webp",
+    "assets/mas/by-sha256/d5a7f4ae5f2f4790e2a3f498.webp",
+    "assets/mas/by-sha256/e0b8598e49a8847f89ffdf5a.webp",
+    "assets/mas/by-sha256/c4e4d2b56cae281bb756ba00.webp",
+    "assets/mas/by-sha256/fd942561f14f5699389426c0.webp",
+    "assets/mas/by-sha256/43fc7be06192b581578fae60.webp",
+    "assets/mas/by-sha256/fc9f6eec0e6c8d90d00364ff.webp",
+    "assets/mas/by-sha256/ec61de95d50ec295cce82edc.webp",
+    "assets/mas/by-sha256/4147a54d7f30bbaf47382edb.webp",
+    "assets/mas/by-sha256/811e4267452266d5283f2425.webp",
+    "assets/mas/by-sha256/77cb97031544572059a4d605.webp",
+    "assets/mas/by-sha256/8b17f124c4c56eb47e507192.webp",
+    "assets/mas/by-sha256/430bb883246cb943024cffa9.webp",
+    "assets/mas/by-sha256/80c7baa5c74fb70aea68c020.webp",
+    "assets/mas/by-sha256/298bda65b9a738bfba0bf155.webp",
+    "assets/mas/by-sha256/8d3bb12da640f1a950017732.webp",
+    "assets/mas/by-sha256/8eb2c5f3282aeb0523be5a43.webp",
+    "assets/mas/by-sha256/75a14e80f2269c7ba655720e.webp",
+    "assets/mas/by-sha256/36178a12de965d214b279e26.webp",
+    "assets/mas/by-sha256/066a5fbbb103d822ef25ea96.webp",
+    "assets/mas/by-sha256/34e1bbdd5d3053f486e34d5e.webp",
+    "assets/mas/by-sha256/7d71da1b89e336a10d20f8c2.webp",
+    "assets/mas/by-sha256/47233ebfbccdad533f689ef3.webp",
+    "assets/mas/by-sha256/42d73fb7af057a21374834d0.webp",
+    "assets/mas/by-sha256/7b3b0a50af154b73bd407ce2.webp",
+    "assets/mas/by-sha256/897563385a154e843e805383.webp",
+    "assets/mas/by-sha256/a07d23f8085116cb4f2d716d.webp",
+    "assets/mas/by-sha256/e8fe1910d33d2cebed000f56.webp",
+    "assets/mas/by-sha256/653d1b727f3dfa408a374309.webp",
+    "assets/mas/by-sha256/6438f94097f8393da6be3d76.webp",
+    "assets/mas/by-sha256/fae6b75c682ebfbf7bbc78bf.webp",
+    "assets/mas/by-sha256/2e4b657da651b30be73f3881.webp",
+    "assets/mas/by-sha256/d529c9c67b5ca3403325238c.webp",
+    "assets/mas/by-sha256/92066d7b04544c880e63acda.webp",
+    "assets/mas/by-sha256/027021eb31a88e9e7ae9dc3a.webp",
+    "assets/mas/by-sha256/ae6ffe915065b094f0b42551.webp",
+    "assets/mas/by-sha256/8ca6a3667407517833c84070.webp",
+    "assets/mas/by-sha256/7382ee81f717a0a3e10b4d0c.webp",
+    "assets/mas/by-sha256/ba76d0a8f2b49d1116476e5f.webp",
+    "assets/mas/by-sha256/bbb5c8cca51a18d2b25982e9.webp",
+    "assets/mas/by-sha256/72ad8ebd9eadc46d4decba15.webp",
+    "assets/mas/by-sha256/d85d35a340d02c32a58894d9.webp",
+    "assets/mas/by-sha256/8e8ab87ac166b62c0431f499.webp",
+    "assets/mas/by-sha256/983938b866b495fdaca6ebc5.webp",
+    "assets/mas/by-sha256/8934d241acbcd3e7ce886994.webp",
+    "assets/mas/by-sha256/9fde037826450e25c6e322d6.webp",
+    "assets/mas/by-sha256/0a33242ea8bbe07aec6c5ec8.webp",
+    "assets/mas/by-sha256/928095e3d184593fdea1afab.webp",
+    "assets/mas/by-sha256/e06972f96397ea07c7ff4666.webp",
+    "assets/mas/by-sha256/bf5fcaa84f2bebb6d060ea1b.webp",
+    "assets/mas/by-sha256/967df8c666149aa3a01e9a61.webp",
+    "assets/mas/by-sha256/1e8f693e1e8ffed4ce41e17b.webp",
+    "assets/mas/by-sha256/963eb095d73bc7f7e49f868f.webp",
+    "assets/mas/by-sha256/c14b4c64aff5fc5f473669e8.webp",
+    "assets/mas/by-sha256/b01b3a44d89bbf5fe1eef40d.webp",
+    "assets/mas/by-sha256/900fddd0d0b4425e02c77849.webp",
+    "assets/mas/by-sha256/a61f0716af51a311d5b83c15.webp",
+    "assets/mas/by-sha256/3da74d46934fc8b4ed9b2165.webp",
+    "assets/mas/by-sha256/ce78aa5efd4236374235ef91.webp",
+    "assets/mas/by-sha256/cb8a42f10388a8c0d4bdd7b7.webp",
+    "assets/mas/by-sha256/e94871f70666fd39f433ace5.webp",
+    "assets/mas/by-sha256/5191ac145f521a67e071f80a.webp",
+    "assets/mas/by-sha256/f971b8fded2bd60ff09fbd29.webp",
+    "assets/mas/by-sha256/2d74727b228c15bec1098477.webp",
+    "assets/mas/by-sha256/8f3989d3e54d6395e19092f2.webp",
+    "assets/mas/by-sha256/631948964ed1c2501ac32215.webp",
+    "assets/mas/by-sha256/b32ad25e68644e88a16f3adb.webp",
+    "assets/mas/by-sha256/c670b5437e39220d347316e5.webp",
+    "assets/mas/by-sha256/5f915f708c2c312959fbde7c.webp",
+    "assets/mas/by-sha256/a3223b5d2c2a390c91cc315f.webp",
+    "assets/mas/by-sha256/3f830eb360b530cf12fa15f5.webp",
+    "assets/mas/by-sha256/82fc665150249cabf6524464.webp",
+    "assets/mas/by-sha256/d9e3a87423b836aafc6196e1.webp",
+    "assets/mas/by-sha256/a5959551b70c8e12d70392f0.webp"
+  ],
+  "backgroundUniqueImages": [
+    "assets/mas/by-sha256/d0bf6cbe6a0e62be12374c45.webp",
+    "assets/mas/by-sha256/9823685aa880b2f5b9b7e46d.webp",
+    "assets/mas/by-sha256/fc457bbafa867d6daa7363fc.webp",
+    "assets/mas/by-sha256/22c57b1ffa79894a2fe23ef3.webp",
+    "assets/mas/by-sha256/aeb4c8cfe80e1e6f54aecb8a.webp",
+    "assets/mas/by-sha256/a19d2da9d4c1b08bf59b437f.webp",
+    "assets/mas/by-sha256/eb5b5619e79e540b22ddb629.webp",
+    "assets/mas/by-sha256/14f5c41444e5fdf61507b8fb.webp",
+    "assets/mas/by-sha256/89293cad93c7f9334321b2b6.webp",
+    "assets/mas/by-sha256/bbd36bec1d3ee171e7a9a27c.webp",
+    "assets/mas/by-sha256/317668b87dac09493c2da6be.webp",
+    "assets/mas/by-sha256/bdfd8368fed1efafdf67f85e.webp",
+    "assets/mas/by-sha256/726eef2a06b196d36077c587.webp",
+    "assets/mas/by-sha256/5345e1f8ef7b6eb252456919.webp",
+    "assets/mas/by-sha256/bc980eba8efe003c2113ca76.webp",
+    "assets/mas/by-sha256/b4828291abcfee1f212a6d10.webp",
+    "assets/mas/by-sha256/2f2ec0ebad5774044bd57b3b.webp",
+    "assets/mas/by-sha256/2003369dd2b5b5c8272108aa.webp",
+    "assets/mas/by-sha256/75a3e2af01ea6357eaaec2f5.webp",
+    "assets/mas/by-sha256/26d447271903426b9738f5c6.webp",
+    "assets/mas/by-sha256/464aa0a95c697852e88bb81d.webp",
+    "assets/mas/by-sha256/1faa72d805c409b75a0ae169.webp",
+    "assets/mas/by-sha256/eb597efbfdd762d2b5453b2c.webp",
+    "assets/mas/by-sha256/485466968a51baddf05729c4.webp",
+    "assets/mas/by-sha256/743861093877dc66a4417e46.webp",
+    "assets/mas/by-sha256/2006aaf4ad867c35635ca2b3.webp",
+    "assets/mas/by-sha256/cfac7d04826e4e5605053f77.webp",
+    "assets/mas/by-sha256/a7d8732013d7c9779a561d35.webp",
+    "assets/mas/by-sha256/372b183ea0ed34817f2aa9da.webp",
+    "assets/mas/by-sha256/4225123daf8cf1d47d4f2d1f.webp",
+    "assets/mas/by-sha256/7a9a96648f3ef0e9115af4ca.webp",
+    "assets/mas/by-sha256/eff41a1e1f4d0c12a24468d5.webp",
+    "assets/mas/by-sha256/bcd15aa7e1f50c340a3e18c9.webp",
+    "assets/mas/by-sha256/6d11f6edf34442aecb2fb762.webp",
+    "assets/mas/by-sha256/b435cd3dd488302e1a3dabc8.webp",
+    "assets/mas/by-sha256/2a4552f19b5add857e1f2bf9.webp",
+    "assets/mas/by-sha256/ab5f05682d0c520fcf7cb6ae.webp",
+    "assets/mas/by-sha256/9a1f9299d341fa887632c1fd.webp",
+    "assets/mas/by-sha256/29d7eaa04c4f1ec2c62ec85b.webp",
+    "assets/mas/by-sha256/3b0a55ae8cdf3cc08833077f.webp",
+    "assets/mas/by-sha256/27e0c86eb1d30a87162b38f3.webp",
+    "assets/mas/by-sha256/4ae553a40f5edf7ff74b8590.webp",
+    "assets/mas/by-sha256/7ec9f4f71bd57e9def3308bb.webp",
+    "assets/mas/by-sha256/0f38383bcde43d9ea44675a0.webp",
+    "assets/mas/by-sha256/3da99d39f4addd3d17726a3a.webp",
+    "assets/mas/by-sha256/202934b5932c0f44e23c7a99.webp",
+    "assets/mas/by-sha256/fc9f6eec0e6c8d90d00364ff.webp",
+    "assets/mas/by-sha256/ec61de95d50ec295cce82edc.webp",
+    "assets/mas/by-sha256/4147a54d7f30bbaf47382edb.webp",
+    "assets/mas/by-sha256/811e4267452266d5283f2425.webp",
+    "assets/mas/by-sha256/77cb97031544572059a4d605.webp",
+    "assets/mas/by-sha256/8b17f124c4c56eb47e507192.webp",
+    "assets/mas/by-sha256/430bb883246cb943024cffa9.webp",
+    "assets/mas/by-sha256/80c7baa5c74fb70aea68c020.webp",
+    "assets/mas/by-sha256/298bda65b9a738bfba0bf155.webp",
+    "assets/mas/by-sha256/8d3bb12da640f1a950017732.webp",
+    "assets/mas/by-sha256/8eb2c5f3282aeb0523be5a43.webp",
+    "assets/mas/by-sha256/75a14e80f2269c7ba655720e.webp",
+    "assets/mas/by-sha256/36178a12de965d214b279e26.webp",
+    "assets/mas/by-sha256/066a5fbbb103d822ef25ea96.webp",
+    "assets/mas/by-sha256/34e1bbdd5d3053f486e34d5e.webp",
+    "assets/mas/by-sha256/7d71da1b89e336a10d20f8c2.webp",
+    "assets/mas/by-sha256/47233ebfbccdad533f689ef3.webp",
+    "assets/mas/by-sha256/42d73fb7af057a21374834d0.webp",
+    "assets/mas/by-sha256/7b3b0a50af154b73bd407ce2.webp",
+    "assets/mas/by-sha256/897563385a154e843e805383.webp",
+    "assets/mas/by-sha256/a07d23f8085116cb4f2d716d.webp",
+    "assets/mas/by-sha256/e8fe1910d33d2cebed000f56.webp",
+    "assets/mas/by-sha256/653d1b727f3dfa408a374309.webp",
+    "assets/mas/by-sha256/6438f94097f8393da6be3d76.webp",
+    "assets/mas/by-sha256/fae6b75c682ebfbf7bbc78bf.webp",
+    "assets/mas/by-sha256/2e4b657da651b30be73f3881.webp",
+    "assets/mas/by-sha256/d529c9c67b5ca3403325238c.webp",
+    "assets/mas/by-sha256/92066d7b04544c880e63acda.webp",
+    "assets/mas/by-sha256/027021eb31a88e9e7ae9dc3a.webp",
+    "assets/mas/by-sha256/ae6ffe915065b094f0b42551.webp",
+    "assets/mas/by-sha256/8ca6a3667407517833c84070.webp",
+    "assets/mas/by-sha256/7382ee81f717a0a3e10b4d0c.webp",
+    "assets/mas/by-sha256/ba76d0a8f2b49d1116476e5f.webp",
+    "assets/mas/by-sha256/bbb5c8cca51a18d2b25982e9.webp",
+    "assets/mas/by-sha256/72ad8ebd9eadc46d4decba15.webp",
+    "assets/mas/by-sha256/d85d35a340d02c32a58894d9.webp",
+    "assets/mas/by-sha256/8e8ab87ac166b62c0431f499.webp",
+    "assets/mas/by-sha256/983938b866b495fdaca6ebc5.webp",
+    "assets/mas/by-sha256/8934d241acbcd3e7ce886994.webp",
+    "assets/mas/by-sha256/9fde037826450e25c6e322d6.webp",
+    "assets/mas/by-sha256/0a33242ea8bbe07aec6c5ec8.webp",
+    "assets/mas/by-sha256/928095e3d184593fdea1afab.webp",
+    "assets/mas/by-sha256/e06972f96397ea07c7ff4666.webp",
+    "assets/mas/by-sha256/bf5fcaa84f2bebb6d060ea1b.webp",
+    "assets/mas/by-sha256/967df8c666149aa3a01e9a61.webp",
+    "assets/mas/by-sha256/1e8f693e1e8ffed4ce41e17b.webp",
+    "assets/mas/by-sha256/963eb095d73bc7f7e49f868f.webp",
+    "assets/mas/by-sha256/c14b4c64aff5fc5f473669e8.webp",
+    "assets/mas/by-sha256/b01b3a44d89bbf5fe1eef40d.webp",
+    "assets/mas/by-sha256/900fddd0d0b4425e02c77849.webp",
+    "assets/mas/by-sha256/a61f0716af51a311d5b83c15.webp",
+    "assets/mas/by-sha256/3da74d46934fc8b4ed9b2165.webp",
+    "assets/mas/by-sha256/ce78aa5efd4236374235ef91.webp",
+    "assets/mas/by-sha256/cb8a42f10388a8c0d4bdd7b7.webp",
+    "assets/mas/by-sha256/e94871f70666fd39f433ace5.webp",
+    "assets/mas/by-sha256/5191ac145f521a67e071f80a.webp",
+    "assets/mas/by-sha256/f971b8fded2bd60ff09fbd29.webp",
+    "assets/mas/by-sha256/2d74727b228c15bec1098477.webp",
+    "assets/mas/by-sha256/8f3989d3e54d6395e19092f2.webp",
+    "assets/mas/by-sha256/631948964ed1c2501ac32215.webp",
+    "assets/mas/by-sha256/b32ad25e68644e88a16f3adb.webp",
+    "assets/mas/by-sha256/c670b5437e39220d347316e5.webp",
+    "assets/mas/by-sha256/5f915f708c2c312959fbde7c.webp",
+    "assets/mas/by-sha256/a3223b5d2c2a390c91cc315f.webp"
+  ],
+  "revocationsCheckedAt": "2026-11-11T02:56:34.841Z"
+}

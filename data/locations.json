@@ -1,0 +1,18 @@
+[
+  {
+    "id": "office",
+    "name": "사무실",
+    "address": "경기도 군포시 고산로 148번길 17, 군포IT밸리 A동 1908호",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12687.894528604695!2d126.94691749001862!3d37.343132936717204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b676787f058ad%3A0xad61db1f8d78c34c!2z6rWw7Y-sSVTrsLjrpqw!5e0!3m2!1sko!2skr!4v1603083963868!5m2!1sko!2skr",
+    "source": "https://onescape.co.kr/contact.html",
+    "previewImage": "assets/locations/map1.png"
+  },
+  {
+    "id": "factory",
+    "name": "공장",
+    "address": "경기도 화성시 향남읍 토성로 362-28",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d795.3833340098138!2d126.95822852924441!3d37.1162245681573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b3e2bed5d0cb9%3A0x8f3bc502b0e6de5c!2z6rK96riw64-EIO2ZlOyEseyLnCDtlqXrgqjsnY0g7Yag7ISx66GcIDM2Mi0yOA!5e0!3m2!1sko!2skr!4v1603083769253!5m2!1sko!2skr",
+    "source": "https://onescape.co.kr/contact.html",
+    "previewImage": "assets/locations/map2.png"
+  }
+]
