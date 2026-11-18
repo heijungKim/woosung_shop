@@ -18,3 +18,10 @@
 ## 참고
 - 네이버 지도는 원본 도메인에서만 인증되므로 로컬에서는 빈칸으로 보입니다(실서버 배포 시 정상).
 - about.html / contact.html은 원본에도 없는 페이지(404)라 메인의 #about / #contact로 연결했습니다.
+
+## 관리자 페이지
+- 주소: `https://heijungkim.github.io/woosung_shop/admin/`
+- 처음 한 번 [설정]에서 GitHub Fine-grained 토큰(woosung_shop 저장소, Contents: Read and write)을 연결합니다.
+- 메인 문구 · 메인 배경 이미지 · 시공실적 · 제품 · 지식재산권 · 회사 정보를 수정한 뒤 [게시하기]를 누르면
+  저장소에 커밋되고 1~2분 뒤 사이트에 반영됩니다.
+- 업로드한 이미지는 브라우저에서 WebP로 변환되어 `assets/*-uploads/` 아래에 저장됩니다.

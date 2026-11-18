@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>OneScape 관리자</title>
+<link rel="stylesheet" href="admin.css">
+<script src="admin.js" defer></script>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <a class="brand" href="./"><img src="../assets/brand/logo-white.png" alt="ONESCAPE"><span>관리자</span></a>
+    <nav class="nav" id="nav">
+      <a href="#dashboard" data-view="dashboard">대시보드</a>
+      <p class="nav-group">메인 화면</p>
+      <a href="#copy" data-view="copy">메인 문구</a>
+      <a href="#hero" data-view="hero">메인 배경 이미지</a>
+      <p class="nav-group">콘텐츠</p>
+      <a href="#portfolio" data-view="portfolio">시공실적</a>
+      <a href="#products" data-view="products">제품 (MAS)</a>
+      <a href="#ip" data-view="ip">지식재산권</a>
+      <p class="nav-group">사이트</p>
+      <a href="#company" data-view="company">회사 정보 · 문구 바꾸기</a>
+      <a href="#settings" data-view="settings">설정</a>
+    </nav>
+    <div class="side-foot">
+      <a href="../index.html" target="_blank" rel="noopener">사이트 열기 ↗</a>
+      <span id="conn" class="conn">연결 안 됨</span>
+    </div>
+  </aside>
+  <main class="main">
+    <div id="view" class="view"></div>
+  </main>
+</div>
+
+<div class="publish-bar" id="publish-bar" hidden>
+  <div class="publish-info"><strong id="pending-count">0</strong>건의 변경사항이 아직 게시되지 않았습니다.<span id="pending-list" class="pending-list"></span></div>
+  <div class="publish-actions">
+    <button class="btn ghost" id="discard">모두 되돌리기</button>
+    <button class="btn primary" id="publish">게시하기</button>
+  </div>
+</div>
+
+<dialog id="modal" class="modal">
+  <form method="dialog" class="modal-inner" id="modal-form">
+    <header class="modal-head"><h2 id="modal-title"></h2><button class="icon-btn" value="cancel" aria-label="닫기">×</button></header>
+    <div class="modal-body" id="modal-body"></div>
+    <footer class="modal-foot" id="modal-foot"></footer>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
